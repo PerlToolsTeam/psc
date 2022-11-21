@@ -26,7 +26,7 @@ for my $y (2021 .. $this_y) {
 
 @meetings = sort { $a->{num} cmp $b->{num} } @meetings;
 
-open my $fh, '>', 'docs/index.html' or die $!;
+open my $fh, '>', 'README.md' or die $!;
 
 print $fh "# Perl Steering Council Meetings\n\n";
 print $fh "This is a list of the Perl Steering Council meetings with links to the minutes.\n\n";
