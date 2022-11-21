@@ -1,5 +1,6 @@
 ---
 title: Perl Steering Council Meetings
+permalink: index.html
 ---
 
 This is a list of the Perl Steering Council meetings with links to the minutes.
