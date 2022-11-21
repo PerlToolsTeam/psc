@@ -21,6 +21,8 @@ This is a list of the Perl Steering Council meetings with links to the minutes.
 * [Perl Steering Committee (PSC) #015 Meeting Notes](https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259789.html)
 * [PSC #016 2021-04-16](https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259929.html)
 * [PSC #017 2021-04-23](https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259980.html)
+* [Steering Council meeting #018 2021-04-30](https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260001.html)
+* [Steering Council meeting #019 2021-05-06](https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260050.html)
 * [PSC #020 - 2021-05-14](https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260061.html)
 * [PSC #021 2021-05-21](https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260126.html)
 * [PSC #022 2021-05-28 minutes](https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260333.html)
