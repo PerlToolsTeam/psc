@@ -28,7 +28,7 @@ for my $y (2021 .. $this_y) {
 
 open my $fh, '>', 'README.md' or die $!;
 
-print $fh "---\nPerl Steering Council Meetings\n---\n\n";
+print $fh "---\ntitle: Perl Steering Council Meetings\n---\n\n";
 print $fh "This is a list of the Perl Steering Council meetings with links to the minutes.\n\n";
 
 for (@meetings) {

@@ -1,5 +1,5 @@
 ---
-Perl Steering Council Meetings
+title: Perl Steering Council Meetings
 ---
 
 This is a list of the Perl Steering Council meetings with links to the minutes.
