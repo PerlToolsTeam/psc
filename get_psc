@@ -1,0 +1,47 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use 5.34.0;
+
+use Web::Query;
+use Time::Piece;
+
+my $base_url  = 'https://www.nntp.perl.org';
+my $group_url = "$base_url/group/perl.perl5.porters";
+
+my $today = localtime;
+my ($this_m, $this_y) = (sprintf('%02d', $today->mon), $today->year);
+
+my @meetings;
+
+for my $y (2021 .. $this_y) {
+  for my $m ('01' .. $this_m) {
+    my $wq = wq("$group_url/$y/$m.html");
+    $wq->find('table.article_list a')->each(\&process_node);
+
+    last if $y == $this_y and $m == $this_m;
+  }
+}
+
+@meetings = sort { $a->{num} cmp $b->{num} } @meetings;
+
+open my $fh, '>', 'docs/index.html' or die $!;
+
+print $fh "# Perl Steering Council Meetings\n\n";
+print $fh "This is a list of the Perl Steering Council meetings with links to the minutes.\n\n";
+
+for (@meetings) {
+  print $fh "* [$_->{text}]($_->{href})\n";
+}
+
+sub process_node {
+  return unless $_->text =~ /^P.+#(\d\d\d).+(\d\d\d\d-\d\d-\d\d)/i;
+
+  push @meetings, {
+    text => $_->text,
+    num  => $1,
+    date => $2,
+    href => $base_url . $_->attr('href'),
+  };
+}
