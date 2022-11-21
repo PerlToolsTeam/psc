@@ -43,7 +43,7 @@ for (@meetings) {
 }
 
 sub process_node {
-  return unless $_->text =~ /^P.+#(\d\d\d?).+(\d\d\d\d-\d\d-\d\d)/i;
+  return unless $_->text =~ /^(?:PSC|Perl Steering Council).*#(\d\d\d?).+(\d\d\d\d-\d\d-\d\d)?/i;
 
   push @meetings, {
     text => $_->text,
