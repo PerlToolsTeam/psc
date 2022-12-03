@@ -6,6 +6,7 @@ use 5.34.0;
 
 use Web::Query;
 use Time::Piece;
+use JSON;
 
 my $base_url  = 'https://www.nntp.perl.org';
 my $group_url = "$base_url/group/perl.perl5.porters";
@@ -26,29 +27,24 @@ for my $y (2021 .. $this_y) {
 
 @meetings = sort { $a->{num} <=> $b->{num} } @meetings;
 
-open my $fh, '>', 'README.md' or die $!;
+my $json = JSON->new->canonical->pretty;
 
-print $fh <<EOHEAD;
----
-title: Perl Steering Council Meetings
-permalink: index.html
----
+open my $fh, '>', 'psc.json' or die $!;
 
-This is a list of the Perl Steering Council meetings with links to the minutes.
-
-EOHEAD
-
-for (@meetings) {
-  print $fh "* [$_->{text}]($_->{href})\n";
-}
+print $fh $json->encode(\@meetings);
 
 sub process_node {
-  return unless $_->text =~ /^(?:PSC|(?:Perl )?Steering Co).*?#(\d+).+(\d\d\d\d-\d\d-\d\d)?/i;
+  return unless $_->text =~ /^(?:PSC|(?:Perl )?Steering Co)/i;
+
+  my ($num)  = $_->text =~ /[ #](\d{2,3})\b/;
+  my ($date) = $_->text =~ /(\d\d\d\d-\d\d-\d\d)/;
+  print $_->text, "\n";
+  printf "%s : %s\n", ($num // '???'), ($date // '???');
 
   push @meetings, {
     text => $_->text,
-    num  => $1,
-    date => $2,
+    num  => sprintf('%03s', $num),
+    date => $date,
     href => $base_url . $_->attr('href'),
   };
 }
