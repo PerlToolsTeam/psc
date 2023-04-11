@@ -1,2 +1,6 @@
-theme: minima
+remote-theme: minima
 google_analytics: G-D7392FW29L
+
+plugins:
+  - jekyll-remote-theme
+
