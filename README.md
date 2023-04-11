@@ -3,6 +3,18 @@ title: Perl Steering Council Meetings
 permalink: index.html
 ---
 
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D7392FW29L"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D7392FW29L');
+  </script>
+  
+</head>
+
 This is a list of the Perl Steering Council meetings with links to the minutes.
 
 * [Perl Steering Council, meeting #001, 2020-01-08](https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258761.html)
