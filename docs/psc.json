@@ -630,6 +630,16 @@
       "num" : "109",
       "date" : "2023-06-09",
       "subj" : "PSC #109 - 2023-05-09 (note: typo in date)"
-   }
+   },
+   {
+      "num" : "110",
+      "subj" : "what happened to 110 you ask?  Well, it was a bit of a non-meeting a few weeks ago.  Nothing to say about it, sorry!"
+   },
+   {
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266790.html",
+      "num" : "111",
+      "date" : "2023-0i8-11",
+      "subj" : "PSC #111: 2023-08-11"
+    }
 ]
 
