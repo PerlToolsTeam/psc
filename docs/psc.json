@@ -688,6 +688,12 @@
        "num" : "119",
        "date" : "2023-10-05",
        "subj" : "PSC #119 2023-10-05"
+    },
+    {
+       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267176.html",
+       "num" : "120",
+       "date" : "2023-10-13",
+       "subj" : "PSC #120 2023-10-12"
     }
 ]
 
