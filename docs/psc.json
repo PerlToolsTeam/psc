@@ -708,8 +708,10 @@
        "subj": "PSC #121 2023-10-26 (Note: incorrect number)"
     },
     {
+       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267463.html",
        "num" : "123",
-       "msg" : "Not sure where this one went."
+       "date" : "2023-11-09",
+       "subj" : "PSC #123 2023-11-09"
     },
     {
        "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/11/msg267346.html",
