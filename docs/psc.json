@@ -760,6 +760,12 @@
        "num" : "131",
        "date" : "2024-01-12",
        "subj" : "PSC #131 2024-01-12"
+    },
+    {
+       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267725.html",
+       "num" : "132",
+       "date" : "2024-01-18",
+       "subj" : "PSC #132 2024-01-18"
     }
 ]
 
