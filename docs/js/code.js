@@ -23,6 +23,12 @@ function createTable(data) {
   });
 }
 
+function compareRows(a, b, columnIndex) {
+    const aText = a.cells[columnIndex].textContent.trim();
+    const bText = b.cells[columnIndex].textContent.trim();
+    return aText.localeCompare(bText, undefined, { numeric: true, sensitivity: 'base' });
+}
+
 function sortTable(columnIndex) {
   const table = document.getElementById('jsonTable');
   const columnHeader = table.getElementsByTagName('th')[columnIndex];
@@ -48,10 +54,7 @@ function sortTable(columnIndex) {
   const tbody = table.tBodies[0];
   const rows = Array.from(tbody.rows);
   const sortedRows = rows.sort((a, b) => {
-    const aText = a.cells[columnIndex].textContent.trim();
-    const bText = b.cells[columnIndex].textContent.trim();
-    const comparison = aText.localeCompare(bText, undefined, { numeric: true, sensitivity: 'base' });
-
+    const comparison = compareRows(a, b, columnIndex) || compareRows(a, b, 1); // date_meet tiebreak
     return sortOrder === 'asc' ? comparison : -comparison;
   });
 
