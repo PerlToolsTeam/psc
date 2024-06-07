@@ -9,7 +9,8 @@ function createTable(data) {
   data.forEach(item => {
     const row = table.insertRow();
     row.insertCell().textContent = item.num;
-    row.insertCell().textContent = item.date;
+    row.insertCell().textContent = item.date_meet;
+    row.insertCell().textContent = item.date_pub;
     const subjCell = row.insertCell();
     if (item.subj) {
       const subjLink = document.createElement('a');

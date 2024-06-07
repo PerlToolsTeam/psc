@@ -1,873 +1,1040 @@
 [
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258761.html",
+      "date_meet" : "2020-01-08",
+      "date_pub" : "2021-01-09",
       "num" : "001",
-      "date" : "2021-01-09",
-      "subj" : "Perl Steering Council, meeting #001, 2020-01-08"
+      "subj" : "Perl Steering Council, meeting #001, 2020-01-08",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258761.html"
    },
    {
-      "date" : "2021-01-12",
+      "date_meet" : "2020-01-12",
+      "date_pub" : "2021-01-12",
+      "num" : "002",
       "subj" : "Perl Steering Council, meeting #002, 2020-01-12",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258771.html",
-      "num" : "002"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258771.html"
    },
    {
-      "subj" : "Perl Steering Council, meeting #003, 2020-01-15",
-      "date" : "2021-01-17",
+      "date_meet" : "2020-01-15",
+      "date_pub" : "2021-01-17",
       "num" : "003",
+      "subj" : "Perl Steering Council, meeting #003, 2020-01-15",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258817.html"
    },
    {
+      "date_meet" : "2021-01-22",
+      "date_pub" : "2021-01-26",
       "num" : "004",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258932.html",
       "subj" : "Perl Steering Council #004 2021-01-22",
-      "date" : "2021-01-26"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258932.html"
    },
    {
-      "date" : "2021-02-01",
-      "subj" : "Perl Steering Council #005 2021-01-29",
+      "date_meet" : "2021-01-29",
+      "date_pub" : "2021-02-01",
       "num" : "005",
+      "subj" : "Perl Steering Council #005 2021-01-29",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg258952.html"
    },
    {
+      "date_meet" : "2021-02-05",
+      "date_pub" : "2021-02-11",
       "num" : "006",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg259058.html",
       "subj" : "Perl Steering Council, meeting #006, 2021-02-05",
-      "date" : "2021-02-11"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg259058.html"
    },
    {
+      "date_meet" : "2021-02-12",
+      "date_pub" : "2021-02-15",
       "num" : "007",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg259107.html",
       "subj" : "PSC#007 2021-02-12",
-      "date" : "2021-02-15"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg259107.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259202.html",
+      "date_meet" : "2021-02-26",
+      "date_pub" : "2021-03-03",
       "num" : "008",
       "subj" : "PSC #008 2021-02-26",
-      "date" : "2021-03-03"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259202.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259251.html",
+      "date_meet" : "2021-03-05",
+      "date_pub" : "2021-03-08",
       "num" : "009",
-      "date" : "2021-03-08",
-      "subj" : "PSC #009 2021-03-05"
+      "subj" : "PSC #009 2021-03-05",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259251.html"
    },
    {
-      "date" : "2021-03-12",
+      "date_meet" : "2021-03-12",
+      "date_pub" : "2021-03-12",
+      "num" : "010",
       "subj" : "PSC #10 - 2021-03-12",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259300.html",
-      "num" : "010"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259300.html"
    },
    {
-      "date" : "2021-03-24",
-      "subj" : "PSC #011 2021-03-19",
+      "date_meet" : "2021-03-19",
+      "date_pub" : "2021-03-24",
       "num" : "011",
+      "subj" : "PSC #011 2021-03-19",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259405.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259426.html",
+      "date_meet" : "2012-03-26",
+      "date_pub" : "2021-03-26",
       "num" : "012",
-      "date" : "2021-03-26",
-      "subj" : "PSC #012 2012-03-26"
+      "subj" : "PSC #012 2012-03-26",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259426.html"
    },
    {
       "msg" : "#13 is missing. I think this is a numbering problem",
       "num" : "013"
    },
    {
+      "date_meet" : "2021-03-02",
+      "date_pub" : "2021-04-04",
+      "num" : "014",
       "subj" : "PSC #14 minutes, 2021-03-02",
-      "date" : "2021-04-04",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259700.html",
-      "num" : "014"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259700.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259789.html",
+      "date_meet" : "2021-04-09",
+      "date_pub" : "2021-04-11",
       "num" : "015",
       "subj" : "Perl Steering Committee (PSC) #015 Meeting Notes",
-      "date" : "2021-04-11"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259789.html"
    },
    {
+      "date_meet" : "2021-04-16",
+      "date_pub" : "2021-04-18",
       "num" : "016",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259929.html",
       "subj" : "PSC #016 2021-04-16",
-      "date" : "2021-04-18"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259929.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259980.html",
+      "date_meet" : "2021-04-23",
+      "date_pub" : "2021-04-23",
       "num" : "017",
       "subj" : "PSC #017 2021-04-23",
-      "date" : "2021-04-23"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259980.html"
    },
    {
+      "date_meet" : "2021-04-30",
+      "date_pub" : "2021-05-01",
       "num" : "018",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260001.html",
-      "date" : "2021-05-01",
-      "subj" : "Steering Council meeting #018 2021-04-30"
+      "subj" : "Steering Council meeting #018 2021-04-30",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260001.html"
    },
    {
-      "date" : "2021-05-09",
-      "subj" : "Steering Council meeting #019 2021-05-06",
+      "date_meet" : "2021-05-06",
+      "date_pub" : "2021-05-09",
       "num" : "019",
+      "subj" : "Steering Council meeting #019 2021-05-06",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260050.html"
    },
    {
-      "date" : "2021-05-14",
+      "date_meet" : "2021-05-14",
+      "date_pub" : "2021-05-14",
+      "num" : "020",
       "subj" : "PSC #020 - 2021-05-14",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260061.html",
-      "num" : "020"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260061.html"
    },
    {
+      "date_meet" : "2021-05-21",
+      "date_pub" : "2021-05-23",
       "num" : "021",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260126.html",
       "subj" : "PSC #021 2021-05-21",
-      "date" : "2021-05-23"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260126.html"
    },
    {
+      "date_meet" : "2021-05-28",
+      "date_pub" : "2021-06-07",
       "num" : "022",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260333.html",
-      "date" : "2021-06-07",
-      "subj" : "PSC #022 2021-05-28 minutes"
+      "subj" : "PSC #022 2021-05-28 minutes",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260333.html"
    },
    {
+      "date_meet" : "2021-06-04",
+      "date_pub" : "2021-06-12",
       "num" : "023",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260415.html",
-      "date" : "2021-06-12",
-      "subj" : "PSC #23 2021-06-04 minutes"
+      "subj" : "PSC #23 2021-06-04 minutes",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260415.html"
    },
    {
-      "subj" : "PSC #024 2021-06-11",
-      "date" : "2021-06-13",
+      "date_meet" : "2021-06-11",
+      "date_pub" : "2021-06-13",
       "num" : "024",
+      "subj" : "PSC #024 2021-06-11",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260419.html"
    },
    {
-      "date" : "2021-06-27",
-      "subj" : "PSC #025 2021-06-18 minutes",
+      "date_meet" : "2021-06-18",
+      "date_pub" : "2021-06-27",
       "num" : "025",
+      "subj" : "PSC #025 2021-06-18 minutes",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260708.html"
    },
    {
+      "date_meet" : "2021-06-25",
+      "date_pub" : "2021-07-03",
+      "num" : "026",
       "subj" : "PSC #026, 2021-06-25, minutes",
-      "date" : "2021-07-03",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260752.html",
-      "num" : "026"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260752.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260858.html",
+      "date_meet" : "2021-07-02",
+      "date_pub" : "2021-07-07",
       "num" : "027",
       "subj" : "PSC #027 2021-07-02",
-      "date" : "2021-07-07"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260858.html"
    },
    {
+      "date_meet" : "2021-07-09",
+      "date_pub" : "2021-07-16",
       "num" : "028",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260897.html",
-      "date" : "2021-07-16",
-      "subj" : "PSC #028 2021-07-09 minutes"
+      "subj" : "PSC #028 2021-07-09 minutes",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260897.html"
    },
    {
-      "num" : "029",
-      "msg" : "#29 is missing"
+      "msg" : "#29 is missing",
+      "num" : "029"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260933.html",
+      "date_meet" : "2021-07-23",
+      "date_pub" : "2021-07-24",
       "num" : "030",
       "subj" : "PSC #030 2021-070-23",
-      "date" : "2021-07-24"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260933.html"
    },
    {
+      "date_meet" : "2021-07-30",
+      "date_pub" : "2021-07-30",
+      "num" : "031",
       "subj" : "PSC #031 2021-07-30",
-      "date" : "2021-07-30",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg261002.html",
-      "num" : "031"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg261002.html"
    },
    {
       "msg" : "#32 is missing",
       "num" : "032"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/08/msg261300.html",
+      "date_meet" : "2021-08-13",
+      "date_pub" : "2021-08-15",
       "num" : "033",
-      "date" : "2021-08-15",
-      "subj" : "PSC #033 2021-08-13"
+      "subj" : "PSC #033 2021-08-13",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/08/msg261300.html"
    },
    {
-      "subj" : "PSC #034 2021-08-20 - \"Namespaces Special\"",
-      "date" : "2021-08-27",
+      "date_meet" : "2021-08-20",
+      "date_pub" : "2021-08-27",
       "num" : "034",
+      "subj" : "PSC #034 2021-08-20 - \"Namespaces Special\"",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/08/msg261409.html"
    },
    {
-      "date" : "2021-10-02",
-      "subj" : "PSC #035 - 2021-08-27",
+      "date_meet" : "2021-08-27",
+      "date_pub" : "2021-10-02",
       "num" : "035",
+      "subj" : "PSC #035 - 2021-08-27",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261639.html"
    },
    {
+      "date_meet" : "2021-09-03",
+      "date_pub" : "2021-09-07",
       "num" : "036",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/09/msg261485.html",
-      "date" : "2021-09-07",
-      "subj" : "PSC #036 2021-09-03"
+      "subj" : "PSC #036 2021-09-03",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/09/msg261485.html"
    },
    {
-      "subj" : "PSC #037 - 2021-09-10",
-      "date" : "2021-09-12",
+      "date_meet" : "2021-09-10",
+      "date_pub" : "2021-09-12",
       "num" : "037",
+      "subj" : "PSC #037 - 2021-09-10",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/09/msg261526.html"
    },
    {
+      "date_meet" : "2021-09-17",
+      "date_pub" : "2021-10-02",
       "num" : "038",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261644.html",
       "subj" : "PSC #038 - 2021-09-17",
-      "date" : "2021-10-02"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261644.html"
    },
    {
-      "num" : "039",
-      "msg" : "#39 is missing"
+      "msg" : "#39 is missing",
+      "num" : "039"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261722.html",
+      "date_pub" : "2021-10-14",
       "num" : "040",
-      "date" : "2021-10-14",
-      "subj" : "PSC #040(?) - Perl SV Flags special"
+      "subj" : "PSC #040(?) - Perl SV Flags special",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261722.html"
    },
    {
-      "subj" : "PSC #041 — 2021-10-07",
-      "date" : "2021-10-09",
+      "date_meet" : "2021-10-07",
+      "date_pub" : "2021-10-09",
       "num" : "041",
+      "subj" : "PSC #041 — 2021-10-07",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261700.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261780.html",
+      "date_meet" : "2021-10-15",
+      "date_pub" : "2021-10-21",
       "num" : "042",
       "subj" : "PSC #42 2021-10-15",
-      "date" : "2021-10-21"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261780.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/11/msg261834.html",
+      "date_meet" : "2021-10-29",
+      "date_pub" : "2021-11-09",
       "num" : "043",
-      "date" : "2021-11-09",
-      "subj" : "PSC #043, 2021-10-29"
+      "subj" : "PSC #043, 2021-10-29",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/11/msg261834.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/11/msg261836.html",
+      "date_meet" : "2021-11-05",
+      "date_pub" : "2021-11-09",
       "num" : "044",
       "subj" : "PSC #044 2021-11-05",
-      "date" : "2021-11-09"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/11/msg261836.html"
    },
    {
+      "date_meet" : "2021-11-12",
+      "date_pub" : "2021-12-20",
       "num" : "045",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html",
-      "date" : "2021-12-20",
-      "subj" : "PSC meeting notes, #45 #46 #47 #48 #49"
+      "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
    },
    {
+      "date_meet" : "2021-11-12",
+      "date_pub" : "2021-12-20",
+      "num" : "045",
+      "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
+   },
+   {
+      "date_meet" : "2021-11-19",
+      "date_pub" : "2021-12-20",
+      "num" : "046",
+      "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
+   },
+   {
+      "date_meet" : "2021-12-10",
+      "date_pub" : "2021-12-20",
+      "num" : "047",
+      "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
+   },
+   {
+      "date_meet" : "2021-12-17",
+      "date_pub" : "2021-12-20",
+      "num" : "048",
+      "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
+   },
+   {
+      "date_meet" : "2022-01-07",
+      "date_pub" : "2022-01-09",
       "num" : "049",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262350.html",
-      "date" : "2022-01-09",
-      "subj" : "PSC #049 2022-01-07"
+      "subj" : "PSC #049 2022-01-07",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262350.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262479.html",
+      "date_meet" : "2022-01-14",
+      "date_pub" : "2022-01-20",
       "num" : "050",
       "subj" : "PSC #050 2022-01-14",
-      "date" : "2022-01-20"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262479.html"
    },
    {
-      "subj" : "PSC #051 2022-01-21",
-      "date" : "2022-01-25",
+      "date_meet" : "2022-01-21",
+      "date_pub" : "2022-01-25",
       "num" : "051",
+      "subj" : "PSC #051 2022-01-21",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262580.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262656.html",
+      "date_meet" : "2021-01-28",
+      "date_pub" : "2022-02-01",
       "num" : "052",
       "subj" : "PSC #052 2021-01-28",
-      "date" : "2022-02-01"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262656.html"
    },
    {
+      "date_meet" : "2022-02-04",
+      "date_pub" : "2022-02-09",
       "num" : "053",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262747.html",
       "subj" : "PSC #053 2022-02-04",
-      "date" : "2022-02-09"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262747.html"
    },
    {
+      "date_meet" : "2022-02-11",
+      "date_pub" : "2022-02-15",
       "num" : "054",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262856.html",
-      "date" : "2022-02-15",
-      "subj" : "PSC #054 2022-02-11"
+      "subj" : "PSC #054 2022-02-11",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262856.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262935.html",
+      "date_meet" : "2022-02-18",
+      "date_pub" : "2022-02-20",
       "num" : "055",
       "subj" : "PSC #055 2022-02-18",
-      "date" : "2022-02-20"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262935.html"
    },
    {
-      "subj" : "PSC #056 2022-02-25",
-      "date" : "2022-03-01",
+      "date_meet" : "2022-02-25",
+      "date_pub" : "2022-03-01",
       "num" : "056",
+      "subj" : "PSC #056 2022-02-25",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263189.html"
    },
    {
-      "date" : "2022-03-06",
+      "date_meet" : "2022-03-04",
+      "date_pub" : "2022-03-06",
+      "num" : "057",
       "subj" : "PSC #057 2022-03-04",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263260.html",
-      "num" : "057"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263260.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263392.html",
+      "date_meet" : "2022-03-17",
+      "date_pub" : "2022-03-22",
       "num" : "058",
-      "date" : "2022-03-22",
-      "subj" : "PSC #059 2022-03-17"
+      "subj" : "PSC #059 2022-03-17",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263392.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263374.html",
+      "date_meet" : "2022-03-11",
+      "date_pub" : "2022-03-16",
       "num" : "059",
       "subj" : "PSC #059 2022-03-11",
-      "date" : "2022-03-16"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263374.html"
    },
    {
+      "date_meet" : "2022-03-25",
+      "date_pub" : "2022-03-26",
+      "num" : "060",
       "subj" : "PSC 60: 2022-03-25",
-      "date" : "2022-03-26",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263417.html",
-      "num" : "060"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263417.html"
    },
    {
-      "subj" : "PSC #061 2022-04-01",
-      "date" : "2022-04-03",
+      "date_meet" : "2022-04-01",
+      "date_pub" : "2022-04-03",
       "num" : "061",
+      "subj" : "PSC #061 2022-04-01",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/04/msg263449.html"
    },
    {
-      "date" : "2022-04-12",
-      "subj" : "PSC #062 2022-04-08",
+      "date_meet" : "2022-04-08",
+      "date_pub" : "2022-04-12",
       "num" : "062",
+      "subj" : "PSC #062 2022-04-08",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/04/msg263561.html"
    },
    {
-      "num" : "063",
-      "msg" : "#63 is missing"
+      "msg" : "#63 is missing",
+      "num" : "063"
    },
    {
+      "date_meet" : "2022-04-22",
+      "date_pub" : "2022-04-22",
       "num" : "064",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/04/msg263670.html",
-      "date" : "2022-04-22",
-      "subj" : "PSC #064 2022-04-22"
+      "subj" : "PSC #064 2022-04-22",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/04/msg263670.html"
    },
    {
-      "date" : "2022-05-18",
+      "date_meet" : "2022-04-13",
+      "date_pub" : "2022-05-18",
+      "num" : "065",
       "subj" : "PSC #065 2022-04-13",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263725.html",
-      "num" : "065"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263725.html"
    },
    {
-      "date" : "2022-05-01",
+      "date_meet" : "2022-04-29",
+      "date_pub" : "2022-05-01",
+      "num" : "065",
       "subj" : "PSC #065 2022-04-29 (the second #65)",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263696.html",
-      "num" : "065"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263696.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263730.html",
+      "date_meet" : "2022-05-20",
+      "date_pub" : "2022-05-20",
       "num" : "066",
       "subj" : "PSC #066 2022-05-20",
-      "date" : "2022-05-20"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263730.html"
    },
    {
+      "date_meet" : "2022-06-03",
+      "date_pub" : "2022-06-09",
       "num" : "067",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg263937.html",
-      "date" : "2022-06-09",
-      "subj" : "PSC #067 2022-06-03"
+      "subj" : "PSC #067 2022-06-03",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg263937.html"
    },
    {
+      "date_meet" : "2022-06-10",
+      "date_pub" : "2022-06-13",
+      "num" : "068",
       "subj" : "PSC #068 - 2022-06-10",
-      "date" : "2022-06-13",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg263980.html",
-      "num" : "068"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg263980.html"
    },
    {
+      "date_meet" : "2022-06-17",
+      "date_pub" : "2022-06-17",
       "num" : "069",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg264046.html",
       "subj" : "PSC 069 - 2022-06-17",
-      "date" : "2022-06-17"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg264046.html"
    },
    {
-      "subj" : "PSC #070 2022-06-24",
-      "date" : "2022-06-30",
+      "date_meet" : "2022-06-24",
+      "date_pub" : "2022-06-30",
       "num" : "070",
+      "subj" : "PSC #070 2022-06-24",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg264230.html"
    },
    {
-      "date" : "2022-07-08",
-      "subj" : "PSC #071 - 2022-07-01",
+      "date_meet" : "2022-07-01",
+      "date_pub" : "2022-07-08",
       "num" : "071",
+      "subj" : "PSC #071 - 2022-07-01",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264336.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264405.html",
+      "date_meet" : "2022-07-08",
+      "date_pub" : "2022-07-15",
       "num" : "072",
-      "date" : "2022-07-15",
-      "subj" : "PSC #072 - 2022-07-08"
+      "subj" : "PSC #072 - 2022-07-08",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264405.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264406.html",
+      "date_meet" : "2022-07-15",
+      "date_pub" : "2022-07-15",
       "num" : "073",
-      "date" : "2022-07-15",
-      "subj" : "PSC #073 - 2022-07-15"
+      "subj" : "PSC #073 - 2022-07-15",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264406.html"
    },
    {
-      "date" : "2022-07-26",
-      "subj" : "PSC #074 - 2022-07-22",
+      "date_meet" : "2022-07-22",
+      "date_pub" : "2022-07-26",
       "num" : "074",
+      "subj" : "PSC #074 - 2022-07-22",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264487.html"
    },
    {
-      "subj" : "PSC #075 2022-08-05",
-      "date" : "2022-08-12",
+      "date_meet" : "2022-08-05",
+      "date_pub" : "2022-08-12",
       "num" : "075",
+      "subj" : "PSC #075 2022-08-05",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264583.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264637.html",
+      "date_meet" : "2022-08-12",
+      "date_pub" : "2022-08-17",
       "num" : "076",
       "subj" : "PSC #076 - 2022-08-12",
-      "date" : "2022-08-17"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264637.html"
    },
    {
+      "date_meet" : "2022-08-19",
+      "date_pub" : "2022-08-26",
       "num" : "077",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264679.html",
-      "date" : "2022-08-26",
-      "subj" : "PSC #077 - 2022-08-19"
+      "subj" : "PSC #077 - 2022-08-19",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264679.html"
    },
    {
+      "date_meet" : "2022-09-09",
+      "date_pub" : "2022-09-14",
       "num" : "078",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/09/msg264748.html",
-      "date" : "2022-09-14",
-      "subj" : "PSC #078 2022-09-09"
+      "subj" : "PSC #078 2022-09-09",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/09/msg264748.html"
    },
    {
+      "date_meet" : "2022-09-16",
+      "date_pub" : "2022-09-23",
+      "num" : "079",
       "subj" : "PSC #079 - 2022-09-16",
-      "date" : "2022-09-23",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/09/msg264830.html",
-      "num" : "079"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/09/msg264830.html"
    },
    {
-      "subj" : "PSC #080 - 2022-09-23",
-      "date" : "2022-10-04",
+      "date_meet" : "2022-09-23",
+      "date_pub" : "2022-10-04",
       "num" : "080",
+      "subj" : "PSC #080 - 2022-09-23",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264897.html"
    },
    {
+      "date_meet" : "2022-09-30",
+      "date_pub" : "2022-10-13",
+      "num" : "081",
       "subj" : "PSC 081: 2022-09-30",
-      "date" : "2022-10-13",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264937.html",
-      "num" : "081"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264937.html"
    },
    {
+      "date_meet" : "2022-10-07",
+      "date_pub" : "2022-10-13",
       "num" : "082",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264938.html",
-      "date" : "2022-10-13",
-      "subj" : "PSC #082 - 2022-10-07"
+      "subj" : "PSC #082 - 2022-10-07",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264938.html"
    },
    {
-      "date" : "2022-10-29",
+      "date_meet" : "2022-10-14",
+      "date_pub" : "2022-10-29",
+      "num" : "083",
       "subj" : "PSC #083 2022-10-14",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg265000.html",
-      "num" : "083"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg265000.html"
    },
    {
-      "date" : "2022-10-21",
+      "date_meet" : "2022-10-21",
+      "date_pub" : "2022-10-21",
+      "num" : "084",
       "subj" : "PSC #084 2022-10-21",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264961.html",
-      "num" : "084"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264961.html"
    },
    {
-      "date" : "2022-10-28",
-      "subj" : "PSC #085 2022-10-28",
+      "date_meet" : "2022-10-28",
+      "date_pub" : "2022-10-28",
       "num" : "085",
+      "subj" : "PSC #085 2022-10-28",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264996.html"
    },
    {
-      "subj" : "PSC #086: 2022-11-11",
-      "date" : "2022-11-11",
+      "date_meet" : "2022-11-11",
+      "date_pub" : "2022-11-11",
       "num" : "086",
+      "subj" : "PSC #086: 2022-11-11",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265051.html"
    },
    {
+      "date_meet" : "2022-11-18",
+      "date_pub" : "2022-11-18",
       "num" : "087",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265075.html",
       "subj" : "PSC #087 2022-11-18",
-      "date" : "2022-11-18"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265075.html"
    },
    {
+      "date_meet" : "2022-11-25",
+      "date_pub" : "2022-11-25",
       "num" : "088",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265124.html",
-      "date" : "2022-11-25",
-      "subj" : "PSC #088 2022-11-25"
+      "subj" : "PSC #088 2022-11-25",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265124.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265181.html",
+      "date_meet" : "2022-12-02",
+      "date_pub" : "2022-12-02",
       "num" : "089",
-      "date" : "2022-12-02",
-      "subj" : "PSC #089: 2022-12-02"
+      "subj" : "PSC #089: 2022-12-02",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265181.html"
    },
    {
-      "date" : "2022-12-09",
+      "date_meet" : "2022-12-09",
+      "date_pub" : "2022-12-09",
+      "num" : "090",
       "subj" : "PSC #090: 2022-12-09",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265209.html",
-      "num" : "090"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265209.html"
    },
    {
-      "subj" : "PSC #091: 2022-12-16",
-      "date" : "2022-12-16",
+      "date_meet" : "2022-12-16",
+      "date_pub" : "2022-12-16",
       "num" : "091",
+      "subj" : "PSC #091: 2022-12-16",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265251.html"
    },
    {
-      "date" : "2023-01-06",
+      "date_meet" : "2023-01-06",
+      "date_pub" : "2023-01-06",
+      "num" : "092",
       "subj" : "PSC #092: 2023-01-06",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265402.html",
-      "num" : "092"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265402.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265433.html",
+      "date_meet" : "2023-01-13",
+      "date_pub" : "2023-01-13",
       "num" : "093",
       "subj" : "PSC #093: 2023-01-13",
-      "date" : "2023-01-13"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265433.html"
    },
    {
+      "date_meet" : "2023-01-20",
+      "date_pub" : "2023-01-20",
       "num" : "094",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265548.html",
       "subj" : "PSC #094: 2023-01-20",
-      "date" : "2023-01-20"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265548.html"
    },
    {
-      "subj" : "PSC #095: 2023-01-27",
-      "date" : "2023-01-27",
+      "date_meet" : "2023-01-27",
+      "date_pub" : "2023-01-27",
       "num" : "095",
+      "subj" : "PSC #095: 2023-01-27",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265586.html"
    },
    {
+      "date_meet" : "2023-02-03",
+      "date_pub" : "2023-02-03",
+      "num" : "096",
       "subj" : "PSC #096: 2023-02-03",
-      "date" : "2023-02-03",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265630.html",
-      "num" : "096"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265630.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265689.html",
+      "date_meet" : "2023-02-10",
+      "date_pub" : "2023-02-10",
       "num" : "097",
       "subj" : "PSC #097: 2023-02-10",
-      "date" : "2023-02-10"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265689.html"
    },
    {
-      "subj" : "PSC #098: 2023-02-17",
-      "date" : "2023-02-17",
+      "date_meet" : "2023-02-17",
+      "date_pub" : "2023-02-17",
       "num" : "098",
+      "subj" : "PSC #098: 2023-02-17",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265743.html"
    },
    {
+      "date_meet" : "2023-03-03",
+      "date_pub" : "2023-03-03",
       "num" : "099",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg265892.html",
       "subj" : "PSC #099: 2023-03-03",
-      "date" : "2023-03-03"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg265892.html"
    },
    {
+      "date_meet" : "2023-03-10",
+      "date_pub" : "2023-03-10",
+      "num" : "100",
       "subj" : "PSC #100 2023-03-10",
-      "date" : "2023-03-10",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg265972.html",
-      "num" : "100"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg265972.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg266036.html",
+      "date_meet" : "2023-03-17",
+      "date_pub" : "2023-03-17",
       "num" : "101",
-      "date" : "2023-03-17",
-      "subj" : "PSC #101, 2023-03-17"
+      "subj" : "PSC #101, 2023-03-17",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg266036.html"
    },
    {
+      "date_meet" : "2023-03-24",
+      "date_pub" : "2023-03-25",
       "num" : "102",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg266118.html",
-      "date" : "2023-03-25",
-      "subj" : "PSC #102: 2023-03-R24"
+      "subj" : "PSC #102: 2023-03-R24",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg266118.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266152.html",
+      "date_meet" : "2023-04-07",
+      "date_pub" : "2023-04-07",
       "num" : "103",
-      "date" : "2023-04-07",
-      "subj" : "PSC #103 - 2023-04-07"
+      "subj" : "PSC #103 - 2023-04-07",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266152.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266247.html",
+      "date_meet" : "2023-04-21",
+      "date_pub" : "2023-04-21",
       "num" : "104",
-      "date" : "2023-04-21",
-      "subj" : "PSC #104 2023-04-21"
+      "subj" : "PSC #104 2023-04-21",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266247.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266280.html",
+      "date_meet" : "2023-04-28",
+      "date_pub" : "2023-04-28",
       "num" : "105",
-      "date" : "2023-04-28",
-      "subj" : "PSC #105 2023-04-28"
+      "subj" : "PSC #105 2023-04-28",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266280.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266330.html",
+      "date_meet" : "2023-05-05",
+      "date_pub" : "2023-05-06",
       "num" : "106",
-      "date" : "2023-05-06",
-      "subj" : "PSC #106 2023-05-05"
+      "subj" : "PSC #106 2023-05-05",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266330.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266400.html",
+      "date_meet" : "2023-05-12",
+      "date_pub" : "2023-05-19",
       "num" : "107",
-      "date" : "2023-05-19",
-      "subj" : "PSC #107 2023-05-12"
+      "subj" : "PSC #107 2023-05-12",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266400.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266457.html",
+      "date_meet" : "2023-05-26",
+      "date_pub" : "2023-05-26",
       "num" : "108",
-      "date" : "2023-05-26",
-      "subj" : "PSC #108 2023-05-26"
+      "subj" : "PSC #108 2023-05-26",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266457.html"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/06/msg266502.html",
+      "date_meet" : "2023-05-09",
+      "date_pub" : "2023-06-09",
       "num" : "109",
-      "date" : "2023-06-09",
-      "subj" : "PSC #109 - 2023-05-09 (note: typo in date)"
+      "subj" : "PSC #109 - 2023-05-09 (note: typo in date)",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/06/msg266502.html"
    },
    {
-      "num" : "110",
-      "msg" : "'what happened to 110 you ask?  Well, it was a bit of a non-meeting a few weeks ago.  Nothing to say about it, sorry!' - rjbs"
+      "msg" : "'what happened to 110 you ask?  Well, it was a bit of a non-meeting a few weeks ago.  Nothing to say about it, sorry!' - rjbs",
+      "num" : "110"
    },
    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266790.html",
+      "date_meet" : "2023-08-11",
+      "date_pub" : "2023-08-11",
       "num" : "111",
-      "date" : "2023-08-11",
-      "subj" : "PSC #111: 2023-08-11"
-    },
-    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266860.html",
-      "num": "112",
-      "date" : "2023-08-17",
-      "subj" : "PSC #112 2023-08-17"
-    },
-    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266978.html",
+      "subj" : "PSC #111: 2023-08-11",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266790.html"
+   },
+   {
+      "date_meet" : "2023-08-17",
+      "date_pub" : "2023-08-17",
+      "num" : "112",
+      "subj" : "PSC #112 2023-08-17",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266860.html"
+   },
+   {
+      "date_meet" : "2023-08-24",
+      "date_pub" : "2023-08-24",
       "num" : "113",
-      "date" : "2023-08-24",
-      "subj" : "PSC #113 2023-08-24"
-    },
-    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266990.html",
+      "subj" : "PSC #113 2023-08-24",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266978.html"
+   },
+   {
+      "date_meet" : "2023-08-31",
+      "date_pub" : "2023-08-31",
       "num" : "114",
-      "date" : "2023-08-31",
-      "subj" : "PSC #114 2023-08-31"
-    },
-    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267023.html",
-      "num": "115",
-      "date": "2023-09-07",
-      "subj": "PSC #115 2023-09-07"
-    },
-    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267086.html",
-      "num": "116",
-      "date": "2023-09-23",
-      "subj": "PSC #116 2023-09-14"
-    },
-    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267087.html",
-      "num": "117",
-      "date": "2023-09-23",
-      "subj": "PSC #117 2023-09-21"
-    },
-    {
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267115.html",
+      "subj" : "PSC #114 2023-08-31",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266990.html"
+   },
+   {
+      "date_meet" : "2023-09-07",
+      "date_pub" : "2023-09-07",
+      "num" : "115",
+      "subj" : "PSC #115 2023-09-07",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267023.html"
+   },
+   {
+      "date_meet" : "2023-09-14",
+      "date_pub" : "2023-09-23",
+      "num" : "116",
+      "subj" : "PSC #116 2023-09-14",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267086.html"
+   },
+   {
+      "date_meet" : "2023-09-21",
+      "date_pub" : "2023-09-23",
+      "num" : "117",
+      "subj" : "PSC #117 2023-09-21",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267087.html"
+   },
+   {
+      "date_meet" : "2023-09-28",
+      "date_pub" : "2023-09-28",
       "num" : "118",
-      "date" : "2023-09-28",
-      "subj" : "PSC #118 2023-09-28"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267140.html",
-       "num" : "119",
-       "date" : "2023-10-05",
-       "subj" : "PSC #119 2023-10-05"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267176.html",
-       "num" : "120",
-       "date" : "2023-10-13",
-       "subj" : "PSC #120 2023-10-12"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267205.html",
-       "num" : "121",
-       "date" : "2023-10-19",
-       "subj" : "PSC #121 2023-10-19"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267230.html",
-       "num" : "122",
-       "date" : "2023-10-26",
-       "subj": "PSC #121 2023-10-26 (Note: incorrect number)"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267463.html",
-       "num" : "123",
-       "date" : "2023-11-09",
-       "subj" : "PSC #123 2023-11-09"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/11/msg267346.html",
-       "num" : "124",
-       "date" : "2023-11-16",
-       "subj" : "PSC #124 2023-11-16"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/11/msg267347.html",
-       "num" : "125",
-       "date" : "2023-11-23",
-       "subj" : "PSC #125 2023-11-23"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267462.html",
-       "num" : "126",
-       "date" : "2023-11-30",
-       "subj" : "PSC #126 2023-11-30"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267500.html",
-       "num" : "127",
-       "date" : "2023-12-07",
-       "subj" : "PSC #127 2023-12-07"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267538.html",
-       "num" : "128",
-       "date" : "2023-12-14",
-       "subj": "PSC #128 2023-12-14"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267551.html",
-       "num" : "129",
-       "date" : "2023-12-21",
-       "subj" : "PSC #129 2023-12-21"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267619.html",
-       "num" : "130",
-       "date" : "2024-01-04",
-       "subj" : "PSC #130 2024-01-04"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267685.html",
-       "num" : "131",
-       "date" : "2024-01-12",
-       "subj" : "PSC #131 2024-01-12"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267725.html",
-       "num" : "132",
-       "date" : "2024-01-18",
-       "subj" : "PSC #132 2024-01-18"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267765.html",
-       "num" : "133",
-       "date": "2024-01-25",
-       "subj" : "PSC #133 2024-01-25"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267778.html",
-       "num" : "134",
-       "date": "2024-02-01",
-       "subj" : "PSC #134 2024-02-01"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267835.html",
-       "num" : "135",
-       "date": "2024-02-08",
-       "subj" : "PSC #135 2024-02-08"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267878.html",
-       "num" : "136",
-       "date": "2024-02-15",
-       "subj" : "PSC #136 2024-02-15"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267994.html",
-       "num" : "137",
-       "date": "2024-02-22",
-       "subj" : "PSC #137 2024-02-22"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg268017.html",
-       "num" : "138",
-       "date": "2024-02-29",
-       "subj" : "PSC #138 2024-02-28"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268032.html",
-       "num" : "139",
-       "date" : "2024-03-07",
-       "subj" : "PSC #139 2024-03-07"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268049.html",
-       "num" : "140",
-       "date" : "2024-03-14",
-       "subj" : "PSC #140 2024-03-14"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268075.html",
-       "num" : "141",
-       "date" : "2024-03-21",
-       "subj" : "PSC #141 2024-03-21"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268100.html",
-       "num" : "142",
-       "date" : "2024-03-28",
-       "subj" : "PSC #142 2024-03-28"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268121.html",
-       "num" : "143",
-       "date" : "2024-04-04",
-       "subj" : "PSC #143 2024-04-04"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268136.html",
-       "num" : "144",
-       "date" : "2024-04-11",
-       "subj" : "PSC #144 2024-04-11"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268150.html",
-       "num" : "145",
-       "date" : "2024-04-25",
-       "subj" : "PSC #145 2024-05-25"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268163.html",
-       "num" : "146",
-       "date" : "2024-05-02",
-       "subj" : "PSC #146 2024-05-02"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268169.html",
-       "num" : "147",
-       "date" : "2024-05-09",
-       "subj" : "PSC #147 2024-05-09"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268175.html",
-       "num" : "148",
-       "date" : "2024-05-16",
-       "subj" : "PSC #148 2024-05-16"
-    },
-    {
-       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268214.html",
-       "num" : "149",
-       "date" : "2024-05-30",
-       "subj" : "PSC #149 2024-05-30"
-    }
+      "subj" : "PSC #118 2023-09-28",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267115.html"
+   },
+   {
+      "date_meet" : "2023-10-05",
+      "date_pub" : "2023-10-05",
+      "num" : "119",
+      "subj" : "PSC #119 2023-10-05",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267140.html"
+   },
+   {
+      "date_meet" : "2023-10-12",
+      "date_pub" : "2023-10-13",
+      "num" : "120",
+      "subj" : "PSC #120 2023-10-12",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267176.html"
+   },
+   {
+      "date_meet" : "2023-10-19",
+      "date_pub" : "2023-10-19",
+      "num" : "121",
+      "subj" : "PSC #121 2023-10-19",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267205.html"
+   },
+   {
+      "date_meet" : "2023-10-26",
+      "date_pub" : "2023-10-26",
+      "num" : "122",
+      "subj" : "PSC #121 2023-10-26 (Note: incorrect number)",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267230.html"
+   },
+   {
+      "date_meet" : "2023-11-09",
+      "date_pub" : "2023-11-09",
+      "num" : "123",
+      "subj" : "PSC #123 2023-11-09",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267463.html"
+   },
+   {
+      "date_meet" : "2023-11-16",
+      "date_pub" : "2023-11-16",
+      "num" : "124",
+      "subj" : "PSC #124 2023-11-16",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/11/msg267346.html"
+   },
+   {
+      "date_meet" : "2023-11-23",
+      "date_pub" : "2023-11-23",
+      "num" : "125",
+      "subj" : "PSC #125 2023-11-23",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/11/msg267347.html"
+   },
+   {
+      "date_meet" : "2023-11-30",
+      "date_pub" : "2023-11-30",
+      "num" : "126",
+      "subj" : "PSC #126 2023-11-30",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267462.html"
+   },
+   {
+      "date_meet" : "2023-12-07",
+      "date_pub" : "2023-12-07",
+      "num" : "127",
+      "subj" : "PSC #127 2023-12-07",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267500.html"
+   },
+   {
+      "date_meet" : "2023-12-14",
+      "date_pub" : "2023-12-14",
+      "num" : "128",
+      "subj" : "PSC #128 2023-12-14",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267538.html"
+   },
+   {
+      "date_meet" : "2023-12-21",
+      "date_pub" : "2023-12-21",
+      "num" : "129",
+      "subj" : "PSC #129 2023-12-21",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267551.html"
+   },
+   {
+      "date_meet" : "2024-01-04",
+      "date_pub" : "2024-01-04",
+      "num" : "130",
+      "subj" : "PSC #130 2024-01-04",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267619.html"
+   },
+   {
+      "date_meet" : "2024-01-12",
+      "date_pub" : "2024-01-12",
+      "num" : "131",
+      "subj" : "PSC #131 2024-01-12",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267685.html"
+   },
+   {
+      "date_meet" : "2024-01-18",
+      "date_pub" : "2024-01-18",
+      "num" : "132",
+      "subj" : "PSC #132 2024-01-18",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267725.html"
+   },
+   {
+      "date_meet" : "2024-01-25",
+      "date_pub" : "2024-01-25",
+      "num" : "133",
+      "subj" : "PSC #133 2024-01-25",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267765.html"
+   },
+   {
+      "date_meet" : "2024-02-01",
+      "date_pub" : "2024-02-01",
+      "num" : "134",
+      "subj" : "PSC #134 2024-02-01",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267778.html"
+   },
+   {
+      "date_meet" : "2024-02-08",
+      "date_pub" : "2024-02-08",
+      "num" : "135",
+      "subj" : "PSC #135 2024-02-08",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267835.html"
+   },
+   {
+      "date_meet" : "2024-02-15",
+      "date_pub" : "2024-02-15",
+      "num" : "136",
+      "subj" : "PSC #136 2024-02-15",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267878.html"
+   },
+   {
+      "date_meet" : "2024-02-22",
+      "date_pub" : "2024-02-22",
+      "num" : "137",
+      "subj" : "PSC #137 2024-02-22",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267994.html"
+   },
+   {
+      "date_meet" : "2024-02-28",
+      "date_pub" : "2024-02-29",
+      "num" : "138",
+      "subj" : "PSC #138 2024-02-28",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg268017.html"
+   },
+   {
+      "date_meet" : "2024-03-07",
+      "date_pub" : "2024-03-07",
+      "num" : "139",
+      "subj" : "PSC #139 2024-03-07",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268032.html"
+   },
+   {
+      "date_meet" : "2024-03-14",
+      "date_pub" : "2024-03-14",
+      "num" : "140",
+      "subj" : "PSC #140 2024-03-14",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268049.html"
+   },
+   {
+      "date_meet" : "2024-03-21",
+      "date_pub" : "2024-03-21",
+      "num" : "141",
+      "subj" : "PSC #141 2024-03-21",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268075.html"
+   },
+   {
+      "date_meet" : "2024-03-28",
+      "date_pub" : "2024-03-28",
+      "num" : "142",
+      "subj" : "PSC #142 2024-03-28",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268100.html"
+   },
+   {
+      "date_meet" : "2024-04-04",
+      "date_pub" : "2024-04-04",
+      "num" : "143",
+      "subj" : "PSC #143 2024-04-04",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268121.html"
+   },
+   {
+      "date_meet" : "2024-04-11",
+      "date_pub" : "2024-04-11",
+      "num" : "144",
+      "subj" : "PSC #144 2024-04-11",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268136.html"
+   },
+   {
+      "date_meet" : "2024-05-25",
+      "date_pub" : "2024-04-25",
+      "num" : "145",
+      "subj" : "PSC #145 2024-05-25",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268150.html"
+   },
+   {
+      "date_meet" : "2024-05-02",
+      "date_pub" : "2024-05-02",
+      "num" : "146",
+      "subj" : "PSC #146 2024-05-02",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268163.html"
+   },
+   {
+      "date_meet" : "2024-05-09",
+      "date_pub" : "2024-05-09",
+      "num" : "147",
+      "subj" : "PSC #147 2024-05-09",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268169.html"
+   },
+   {
+      "date_meet" : "2024-05-16",
+      "date_pub" : "2024-05-16",
+      "num" : "148",
+      "subj" : "PSC #148 2024-05-16",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268175.html"
+   },
+   {
+      "date_meet" : "2024-05-30",
+      "date_pub" : "2024-05-30",
+      "num" : "149",
+      "subj" : "PSC #149 2024-05-30",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268214.html"
+   }
 ]
-
