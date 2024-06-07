@@ -1029,5 +1029,12 @@
       "num" : "149",
       "subj" : "PSC #149 2024-05-30",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268214.html"
+   },
+   {
+      "date_meet" : "2024-06-06",
+      "date_pub" : "2024-06-06",
+      "num" : "150",
+      "subj" : "PSC #150 2024-06-06",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/06/msg268241.html"
    }
 ]
