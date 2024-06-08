@@ -17,6 +17,10 @@ function createTable(data) {
       subjLink.href = item.url;
       subjLink.textContent = item.subj;
       subjCell.appendChild(subjLink);
+      if (item.msg) {
+        const renderedMsg = document.createTextNode(' (Note: ' + item.msg + ')');
+        subjCell.appendChild(renderedMsg);
+      }
     } else {
       subjCell.textContent = item.msg;
     }
