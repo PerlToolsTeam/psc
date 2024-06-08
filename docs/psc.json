@@ -79,8 +79,9 @@
    {
       "date_meet" : "2021-03-26",
       "date_pub" : "2021-03-26",
+      "msg" : "typo in date",
       "num" : "012",
-      "subj" : "PSC #012 2012-03-26 (note: typo in date)",
+      "subj" : "PSC #012 2012-03-26",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259426.html"
    },
    {
@@ -90,8 +91,9 @@
    {
       "date_meet" : "2021-04-02",
       "date_pub" : "2021-04-04",
+      "msg" : "typo in date",
       "num" : "014",
-      "subj" : "PSC #14 minutes, 2021-03-02 (note: typo in date)",
+      "subj" : "PSC #14 minutes, 2021-03-02",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259700.html"
    },
    {
@@ -441,8 +443,9 @@
    {
       "date_meet" : "2022-04-29",
       "date_pub" : "2022-05-01",
+      "msg" : "the second #65",
       "num" : "065",
-      "subj" : "PSC #065 2022-04-29 (the second #65)",
+      "subj" : "PSC #065 2022-04-29",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263696.html"
    },
    {
@@ -749,8 +752,9 @@
    {
       "date_meet" : "2023-06-09",
       "date_pub" : "2023-06-09",
+      "msg" : "typo in date",
       "num" : "109",
-      "subj" : "PSC #109 - 2023-05-09 (note: typo in date)",
+      "subj" : "PSC #109 - 2023-05-09",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/06/msg266502.html"
    },
    {
@@ -837,8 +841,9 @@
    {
       "date_meet" : "2023-10-26",
       "date_pub" : "2023-10-26",
+      "msg" : "incorrect number",
       "num" : "122",
-      "subj" : "PSC #121 2023-10-26 (Note: incorrect number)",
+      "subj" : "PSC #121 2023-10-26",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267230.html"
    },
    {
