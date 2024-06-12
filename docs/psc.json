@@ -1,21 +1,24 @@
 [
    {
-      "date_meet" : "2020-01-08",
+      "date_meet" : "2021-01-08",
       "date_pub" : "2021-01-09",
+      "msg" : "typo in date",
       "num" : "001",
       "subj" : "Perl Steering Council, meeting #001, 2020-01-08",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258761.html"
    },
    {
-      "date_meet" : "2020-01-12",
+      "date_meet" : "2021-01-12",
       "date_pub" : "2021-01-12",
+      "msg" : "typo in date",
       "num" : "002",
       "subj" : "Perl Steering Council, meeting #002, 2020-01-12",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258771.html"
    },
    {
-      "date_meet" : "2020-01-15",
+      "date_meet" : "2021-01-15",
       "date_pub" : "2021-01-17",
+      "msg" : "typo in date",
       "num" : "003",
       "subj" : "Perl Steering Council, meeting #003, 2020-01-15",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258817.html"
