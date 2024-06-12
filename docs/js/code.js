@@ -75,10 +75,11 @@ function sortTable(columnIndex) {
 }
 
 async function init() {
-  const url = '/psc.json';
-  const data = await fetchJSON(url);
+  const json_url = '/psc.json';
+  const data = await fetchJSON(json_url);
   createTable(data);
   sortTable(0);
 }
 
 init();
+
