@@ -1,89 +1,161 @@
 [
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-01-08",
       "date_pub" : "2021-01-09",
       "msg" : "typo in date",
       "num" : "001",
+      "scribe" : "Neil Bowers",
       "subj" : "Perl Steering Council, meeting #001, 2020-01-08",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258761.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-01-12",
       "date_pub" : "2021-01-12",
       "msg" : "typo in date",
       "num" : "002",
+      "scribe" : "Ricardo Signes",
       "subj" : "Perl Steering Council, meeting #002, 2020-01-12",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258771.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-01-15",
       "date_pub" : "2021-01-17",
       "msg" : "typo in date",
       "num" : "003",
+      "scribe" : "Sawyer X",
       "subj" : "Perl Steering Council, meeting #003, 2020-01-15",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258817.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-01-22",
       "date_pub" : "2021-01-26",
       "num" : "004",
+      "scribe" : "Neil Bowers",
       "subj" : "Perl Steering Council #004 2021-01-22",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258932.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-01-29",
       "date_pub" : "2021-02-01",
       "num" : "005",
+      "scribe" : "Ricardo Signes",
       "subj" : "Perl Steering Council #005 2021-01-29",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg258952.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-02-05",
       "date_pub" : "2021-02-11",
       "num" : "006",
+      "scribe" : "Sawyer X",
       "subj" : "Perl Steering Council, meeting #006, 2021-02-05",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg259058.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-02-12",
       "date_pub" : "2021-02-15",
       "num" : "007",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC#007 2021-02-12",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg259107.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-02-26",
       "date_pub" : "2021-03-03",
       "num" : "008",
+      "scribe" : "Sawyer X",
       "subj" : "PSC #008 2021-02-26",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259202.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-03-05",
       "date_pub" : "2021-03-08",
       "num" : "009",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #009 2021-03-05",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259251.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-03-12",
       "date_pub" : "2021-03-12",
       "num" : "010",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #10 - 2021-03-12",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259300.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-03-19",
       "date_pub" : "2021-03-24",
       "num" : "011",
+      "scribe" : "Sawyer X",
       "subj" : "PSC #011 2021-03-19",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259405.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-03-26",
       "date_pub" : "2021-03-26",
       "msg" : "typo in date",
       "num" : "012",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #012 2012-03-26",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259426.html"
    },
@@ -92,108 +164,199 @@
       "num" : "013"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-04-02",
       "date_pub" : "2021-04-04",
       "msg" : "typo in date",
       "num" : "014",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #14 minutes, 2021-03-02",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259700.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes",
+         "Sawyer X"
+      ],
       "date_meet" : "2021-04-09",
       "date_pub" : "2021-04-11",
       "num" : "015",
+      "scribe" : "Sawyer X",
       "subj" : "Perl Steering Committee (PSC) #015 Meeting Notes",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259789.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-04-16",
       "date_pub" : "2021-04-18",
       "num" : "016",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #016 2021-04-16",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259929.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-04-23",
       "date_pub" : "2021-04-23",
+      "invitees" : [
+         "Nicholas Clark"
+      ],
       "num" : "017",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #017 2021-04-23",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259980.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Nicholas Clark",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-04-30",
       "date_pub" : "2021-05-01",
       "num" : "018",
+      "scribe" : "Neil Bowers",
       "subj" : "Steering Council meeting #018 2021-04-30",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260001.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Nicholas Clark",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-05-06",
       "date_pub" : "2021-05-09",
       "num" : "019",
+      "scribe" : "Nicholas Clark",
       "subj" : "Steering Council meeting #019 2021-05-06",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260050.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Nicholas Clark",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-05-14",
       "date_pub" : "2021-05-14",
       "num" : "020",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #020 - 2021-05-14",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260061.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Nicholas Clark",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-05-21",
       "date_pub" : "2021-05-23",
       "num" : "021",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #021 2021-05-21",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260126.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Nicholas Clark",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-05-28",
       "date_pub" : "2021-06-07",
       "num" : "022",
+      "scribe" : "Nicholas Clark",
       "subj" : "PSC #022 2021-05-28 minutes",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260333.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Nicholas Clark",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-06-04",
       "date_pub" : "2021-06-12",
       "num" : "023",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #23 2021-06-04 minutes",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260415.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Nicholas Clark",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-06-11",
       "date_pub" : "2021-06-13",
       "num" : "024",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #024 2021-06-11",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260419.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Nicholas Clark",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-06-18",
       "date_pub" : "2021-06-27",
       "num" : "025",
+      "scribe" : "Nicholas Clark",
       "subj" : "PSC #025 2021-06-18 minutes",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260708.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Nicholas Clark",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-06-25",
       "date_pub" : "2021-07-03",
       "num" : "026",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #026, 2021-06-25, minutes",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260752.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-07-02",
       "date_pub" : "2021-07-07",
       "num" : "027",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #027 2021-07-02",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260858.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-07-09",
       "date_pub" : "2021-07-16",
       "num" : "028",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #028 2021-07-09 minutes",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260897.html"
    },
@@ -202,16 +365,28 @@
       "num" : "029"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-07-23",
       "date_pub" : "2021-07-24",
       "num" : "030",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #030 2021-070-23",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260933.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-07-30",
       "date_pub" : "2021-07-30",
       "num" : "031",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #031 2021-07-30",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg261002.html"
    },
@@ -220,44 +395,83 @@
       "num" : "032"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-08-13",
       "date_pub" : "2021-08-15",
       "num" : "033",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #033 2021-08-13",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/08/msg261300.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-08-20",
       "date_pub" : "2021-08-27",
+      "invitees" : [
+         "Karl Williamson",
+         "Nicholas Clark",
+         "Yves Orton"
+      ],
       "num" : "034",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #034 2021-08-20 - \"Namespaces Special\"",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/08/msg261409.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-08-27",
       "date_pub" : "2021-10-02",
       "num" : "035",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #035 - 2021-08-27",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261639.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-09-03",
       "date_pub" : "2021-09-07",
       "num" : "036",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #036 2021-09-03",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/09/msg261485.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-09-10",
       "date_pub" : "2021-09-12",
       "num" : "037",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #037 - 2021-09-10",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/09/msg261526.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-09-17",
       "date_pub" : "2021-10-02",
       "num" : "038",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #038 - 2021-09-17",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261644.html"
    },
@@ -266,163 +480,306 @@
       "num" : "039"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_pub" : "2021-10-14",
+      "invitees" : [
+         "Karl Williamson",
+         "Nicholas Clark",
+         "Yves Orton"
+      ],
       "num" : "040",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #040(?) - Perl SV Flags special",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261722.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-10-07",
       "date_pub" : "2021-10-09",
       "num" : "041",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #041 — 2021-10-07",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261700.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-10-15",
       "date_pub" : "2021-10-21",
       "num" : "042",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #42 2021-10-15",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261780.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-10-29",
       "date_pub" : "2021-11-09",
       "num" : "043",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #043, 2021-10-29",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/11/msg261834.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-11-05",
       "date_pub" : "2021-11-09",
       "num" : "044",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #044 2021-11-05",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/11/msg261836.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-11-12",
       "date_pub" : "2021-12-20",
       "num" : "045",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-11-19",
       "date_pub" : "2021-12-20",
       "num" : "046",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-12-10",
       "date_pub" : "2021-12-20",
+      "invitees" : [
+         "Curtis Poe"
+      ],
       "num" : "047",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-12-17",
       "date_pub" : "2021-12-20",
       "num" : "048",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-01-07",
       "date_pub" : "2022-01-09",
       "num" : "049",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #049 2022-01-07",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262350.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-01-14",
       "date_pub" : "2022-01-20",
       "num" : "050",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #050 2022-01-14",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262479.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans"
+      ],
       "date_meet" : "2022-01-21",
       "date_pub" : "2022-01-25",
       "num" : "051",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #051 2022-01-21",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262580.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2021-01-28",
       "date_pub" : "2022-02-01",
       "num" : "052",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #052 2021-01-28",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262656.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-02-04",
       "date_pub" : "2022-02-09",
       "num" : "053",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #053 2022-02-04",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262747.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-02-11",
       "date_pub" : "2022-02-15",
       "num" : "054",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #054 2022-02-11",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262856.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-02-18",
       "date_pub" : "2022-02-20",
       "num" : "055",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #055 2022-02-18",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262935.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-02-25",
       "date_pub" : "2022-03-01",
       "num" : "056",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #056 2022-02-25",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263189.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-03-04",
       "date_pub" : "2022-03-06",
       "num" : "057",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #057 2022-03-04",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263260.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-03-11",
       "date_pub" : "2022-03-16",
-      "num" : "058",
       "msg" : "incorrect number",
+      "num" : "058",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #059 2022-03-11",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263374.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-03-17",
       "date_pub" : "2022-03-22",
       "num" : "059",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #059 2022-03-17",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263392.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-03-25",
       "date_pub" : "2022-03-26",
       "num" : "060",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC 60: 2022-03-25",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263417.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-04-01",
       "date_pub" : "2022-04-03",
       "num" : "061",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #061 2022-04-01",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/04/msg263449.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-04-08",
       "date_pub" : "2022-04-12",
       "num" : "062",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #062 2022-04-08",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/04/msg263561.html"
    },
@@ -431,9 +788,15 @@
       "num" : "063"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-04-22",
       "date_pub" : "2022-04-22",
       "num" : "064",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #064 2022-04-22",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/04/msg263670.html"
    },
@@ -446,319 +809,608 @@
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263696.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-05-13",
       "date_pub" : "2022-05-18",
-      "num" : "065",
       "msg" : "typo in date",
+      "num" : "065",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #065 2022-04-13",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263725.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-05-20",
       "date_pub" : "2022-05-20",
       "num" : "066",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #066 2022-05-20",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263730.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-06-03",
       "date_pub" : "2022-06-09",
       "num" : "067",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #067 2022-06-03",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg263937.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-06-10",
       "date_pub" : "2022-06-13",
       "num" : "068",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #068 - 2022-06-10",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg263980.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-06-17",
       "date_pub" : "2022-06-17",
       "num" : "069",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC 069 - 2022-06-17",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg264046.html"
    },
    {
+      "attendees" : [
+         "Neil Bowers",
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-06-24",
       "date_pub" : "2022-06-30",
       "num" : "070",
+      "scribe" : "Neil Bowers",
       "subj" : "PSC #070 2022-06-24",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg264230.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-07-01",
       "date_pub" : "2022-07-08",
       "num" : "071",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #071 - 2022-07-01",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264336.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-07-08",
       "date_pub" : "2022-07-15",
       "num" : "072",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #072 - 2022-07-08",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264405.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-07-15",
       "date_pub" : "2022-07-15",
       "num" : "073",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #073 - 2022-07-15",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264406.html"
    },
    {
+      "attendees" : [
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-07-22",
       "date_pub" : "2022-07-26",
       "num" : "074",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #074 - 2022-07-22",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264487.html"
    },
    {
+      "attendees" : [
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-08-05",
       "date_pub" : "2022-08-12",
       "num" : "075",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #075 2022-08-05",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264583.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-08-12",
       "date_pub" : "2022-08-17",
       "num" : "076",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #076 - 2022-08-12",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264637.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
       "date_meet" : "2022-08-19",
       "date_pub" : "2022-08-26",
       "num" : "077",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #077 - 2022-08-19",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264679.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-09-09",
       "date_pub" : "2022-09-14",
       "num" : "078",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #078 2022-09-09",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/09/msg264748.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-09-16",
       "date_pub" : "2022-09-23",
       "num" : "079",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #079 - 2022-09-16",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/09/msg264830.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-09-23",
       "date_pub" : "2022-10-04",
       "num" : "080",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #080 - 2022-09-23",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264897.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-09-30",
       "date_pub" : "2022-10-13",
       "num" : "081",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC 081: 2022-09-30",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264937.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-10-07",
       "date_pub" : "2022-10-13",
       "num" : "082",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #082 - 2022-10-07",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264938.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
       "date_meet" : "2022-10-14",
       "date_pub" : "2022-10-29",
       "num" : "083",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #083 2022-10-14",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg265000.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-10-21",
       "date_pub" : "2022-10-21",
       "num" : "084",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #084 2022-10-21",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264961.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
       "date_meet" : "2022-10-28",
       "date_pub" : "2022-10-28",
       "num" : "085",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #085 2022-10-28",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264996.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2022/11/this-week-in-psc-086.html",
       "date_meet" : "2022-11-11",
       "date_pub" : "2022-11-11",
       "num" : "086",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #086: 2022-11-11",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265051.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2022/11/this-week-in-psc-087.html",
       "date_meet" : "2022-11-18",
       "date_pub" : "2022-11-18",
       "num" : "087",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #087 2022-11-18",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265075.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2022/11/this-week-in-psc-088.html",
       "date_meet" : "2022-11-25",
       "date_pub" : "2022-11-25",
       "num" : "088",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #088 2022-11-25",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265124.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2022/12/this-week-in-psc-089.html",
       "date_meet" : "2022-12-02",
       "date_pub" : "2022-12-02",
       "num" : "089",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #089: 2022-12-02",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265181.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2022/12/this-week-in-psc-090.html",
       "date_meet" : "2022-12-09",
       "date_pub" : "2022-12-09",
       "num" : "090",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #090: 2022-12-09",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265209.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2022/12/this-week-in-psc-091.html",
       "date_meet" : "2022-12-16",
       "date_pub" : "2022-12-16",
       "num" : "091",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #091: 2022-12-16",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265251.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/01/this-week-in-psc-092.html",
       "date_meet" : "2023-01-06",
       "date_pub" : "2023-01-06",
       "num" : "092",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #092: 2023-01-06",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265402.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/01/this-week-in-psc-093.html",
       "date_meet" : "2023-01-13",
       "date_pub" : "2023-01-13",
       "num" : "093",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #093: 2023-01-13",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265433.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/01/this-week-in-psc-094.html",
       "date_meet" : "2023-01-20",
       "date_pub" : "2023-01-20",
       "num" : "094",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #094: 2023-01-20",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265548.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/01/this-week-in-psc-095.html",
       "date_meet" : "2023-01-27",
       "date_pub" : "2023-01-27",
       "num" : "095",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #095: 2023-01-27",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265586.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/02/this-week-in-psc-096.html",
       "date_meet" : "2023-02-03",
       "date_pub" : "2023-02-03",
       "num" : "096",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #096: 2023-02-03",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265630.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/02/this-week-in-psc-97.html",
       "date_meet" : "2023-02-10",
       "date_pub" : "2023-02-10",
       "num" : "097",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #097: 2023-02-10",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265689.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/02/this-week-in-psc-098.html",
       "date_meet" : "2023-02-17",
       "date_pub" : "2023-02-17",
       "num" : "098",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #098: 2023-02-17",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265743.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/03/this-week-in-psc-099.html",
       "date_meet" : "2023-03-03",
       "date_pub" : "2023-03-03",
       "num" : "099",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #099: 2023-03-03",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg265892.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/03/this-week-in-psc-100.html",
       "date_meet" : "2023-03-10",
       "date_pub" : "2023-03-10",
+      "invitees" : [
+         "Peter Krawczyk"
+      ],
       "num" : "100",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #100 2023-03-10",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg265972.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/03/this-week-in-psc-101.html",
       "date_meet" : "2023-03-17",
       "date_pub" : "2023-03-17",
       "num" : "101",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #101, 2023-03-17",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg266036.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/03/this-week-in-psc-102.html",
       "date_meet" : "2023-03-24",
       "date_pub" : "2023-03-25",
       "num" : "102",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #102: 2023-03-R24",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg266118.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/04/this-week-in-psc-103.html",
       "date_meet" : "2023-04-07",
       "date_pub" : "2023-04-07",
+      "invitees" : [
+         "Peter Krawczyk"
+      ],
       "num" : "103",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #103 - 2023-04-07",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266152.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/04/this-week-in-psc-104.html",
       "date_meet" : "2023-04-21",
       "date_pub" : "2023-04-21",
       "num" : "104",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #104 2023-04-21",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266247.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/04/this-week-in-psc-105.html",
       "date_meet" : "2023-04-28",
       "date_pub" : "2023-04-28",
       "num" : "105",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #105 2023-04-28",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266280.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/05/this-week-in-psc-106.html",
       "date_meet" : "2023-05-05",
       "date_pub" : "2023-05-06",
       "num" : "106",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #106 2023-05-05",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266330.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/05/this-week-in-psc-107.html",
       "date_meet" : "2023-05-12",
       "date_pub" : "2023-05-19",
       "num" : "107",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #107 2023-05-12",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266400.html"
    },
    {
+      "attendees" : [
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/05/this-week-in-psc-108.html",
       "date_meet" : "2023-05-26",
       "date_pub" : "2023-05-26",
       "num" : "108",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #108 2023-05-26",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266457.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/06/this-week-in-psc-109.html",
       "date_meet" : "2023-06-09",
       "date_pub" : "2023-06-09",
       "msg" : "typo in date",
       "num" : "109",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #109 - 2023-05-09",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/06/msg266502.html"
    },
@@ -767,283 +1419,556 @@
       "num" : "110"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat",
+         "Ricardo Signes"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/08/this-week-in-psc-111.html",
       "date_meet" : "2023-08-11",
       "date_pub" : "2023-08-11",
       "num" : "111",
+      "scribe" : "Ricardo Signes",
       "subj" : "PSC #111: 2023-08-11",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266790.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/08/this-week-in-psc-112.html",
       "date_meet" : "2023-08-17",
       "date_pub" : "2023-08-17",
       "num" : "112",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #112 2023-08-17",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266860.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/08/this-week-in-psc-113.html",
       "date_meet" : "2023-08-24",
       "date_pub" : "2023-08-24",
       "num" : "113",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #113 2023-08-24",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266978.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/08/this-week-in-psc-114.html",
       "date_meet" : "2023-08-31",
       "date_pub" : "2023-08-31",
       "num" : "114",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #114 2023-08-31",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266990.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/09/this-week-in-psc-115.html",
       "date_meet" : "2023-09-07",
       "date_pub" : "2023-09-07",
       "num" : "115",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #115 2023-09-07",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267023.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/09/this-week-in-psc-116.html",
       "date_meet" : "2023-09-14",
       "date_pub" : "2023-09-23",
       "num" : "116",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #116 2023-09-14",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267086.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/09/this-week-in-psc-117.html",
       "date_meet" : "2023-09-21",
       "date_pub" : "2023-09-23",
       "num" : "117",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #117 2023-09-21",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267087.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/09/this-week-in-psc-118.html",
       "date_meet" : "2023-09-28",
       "date_pub" : "2023-09-28",
       "num" : "118",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #118 2023-09-28",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267115.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/10/this-week-in-psc-119.html",
       "date_meet" : "2023-10-05",
       "date_pub" : "2023-10-05",
       "num" : "119",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #119 2023-10-05",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267140.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/10/this-week-in-psc-120.html",
       "date_meet" : "2023-10-12",
       "date_pub" : "2023-10-13",
       "num" : "120",
+      "scribe" : "Graham Knop",
       "subj" : "PSC #120 2023-10-12",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267176.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/10/this-week-in-psc-121.html",
       "date_meet" : "2023-10-19",
       "date_pub" : "2023-10-19",
       "num" : "121",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #121 2023-10-19",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267205.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/10/this-week-in-psc-122.html",
       "date_meet" : "2023-10-26",
       "date_pub" : "2023-10-26",
       "msg" : "incorrect number",
       "num" : "122",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #121 2023-10-26",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267230.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/11/this-week-in-psc-123-2023-11-09.html",
       "date_meet" : "2023-11-09",
       "date_pub" : "2023-11-09",
       "num" : "123",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #123 2023-11-09",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267463.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/11/this-week-in-psc-124.html",
       "date_meet" : "2023-11-16",
       "date_pub" : "2023-11-16",
       "num" : "124",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #124 2023-11-16",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/11/msg267346.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/11/this-week-in-psc-125-2023-11-23.html",
       "date_meet" : "2023-11-23",
       "date_pub" : "2023-11-23",
       "num" : "125",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #125 2023-11-23",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/11/msg267347.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/12/this-week-in-psc-126-2023-11-30.html",
       "date_meet" : "2023-11-30",
       "date_pub" : "2023-11-30",
       "num" : "126",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #126 2023-11-30",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267462.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/12/this-week-in-psc-127.html",
       "date_meet" : "2023-12-07",
       "date_pub" : "2023-12-07",
       "num" : "127",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #127 2023-12-07",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267500.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/12/this-week-in-psc-128-2023-12-14.html",
       "date_meet" : "2023-12-14",
       "date_pub" : "2023-12-14",
       "num" : "128",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #128 2023-12-14",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267538.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2023/12/this-week-in-psc-129.html",
       "date_meet" : "2023-12-21",
       "date_pub" : "2023-12-21",
       "num" : "129",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #129 2023-12-21",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267551.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/01/this-week-in-psc-130.html",
       "date_meet" : "2024-01-04",
       "date_pub" : "2024-01-04",
       "num" : "130",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #130 2024-01-04",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267619.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/01/this-week-in-psc-131.html",
       "date_meet" : "2024-01-12",
       "date_pub" : "2024-01-12",
       "num" : "131",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #131 2024-01-12",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267685.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/01/this-week-in-psc-132.html",
       "date_meet" : "2024-01-18",
       "date_pub" : "2024-01-18",
       "num" : "132",
+      "scribe" : "Graham Knop",
       "subj" : "PSC #132 2024-01-18",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267725.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/01/this-week-in-psc-133.html",
       "date_meet" : "2024-01-25",
       "date_pub" : "2024-01-25",
       "num" : "133",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #133 2024-01-25",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267765.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/02/this-week-in-psc-134.html",
       "date_meet" : "2024-02-01",
       "date_pub" : "2024-02-01",
       "num" : "134",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #134 2024-02-01",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267778.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/02/this-week-in-psc-135-2024-02-08.html",
       "date_meet" : "2024-02-08",
       "date_pub" : "2024-02-08",
       "num" : "135",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #135 2024-02-08",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267835.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/02/psc-136-2024-02-15.html",
       "date_meet" : "2024-02-15",
       "date_pub" : "2024-02-15",
       "num" : "136",
+      "scribe" : "Graham Knop",
       "subj" : "PSC #136 2024-02-15",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267878.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/02/this-week-in-psc-137-2024-02-22.html",
       "date_meet" : "2024-02-22",
       "date_pub" : "2024-02-22",
       "num" : "137",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #137 2024-02-22",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267994.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/03/this-week-in-psc-138.html",
       "date_meet" : "2024-02-28",
       "date_pub" : "2024-02-29",
       "num" : "138",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #138 2024-02-28",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg268017.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/03/this-week-in-psc-139.html",
       "date_meet" : "2024-03-07",
       "date_pub" : "2024-03-07",
       "num" : "139",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #139 2024-03-07",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268032.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/03/psc-140-2024-03-14.html",
       "date_meet" : "2024-03-14",
       "date_pub" : "2024-03-14",
       "num" : "140",
+      "scribe" : "Graham Knop",
       "subj" : "PSC #140 2024-03-14",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268049.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/03/this-week-in-psc-141-2024-03-21.html",
       "date_meet" : "2024-03-21",
       "date_pub" : "2024-03-21",
       "num" : "141",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #141 2024-03-21",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268075.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/03/this-week-in-psc-142.html",
       "date_meet" : "2024-03-28",
       "date_pub" : "2024-03-28",
       "num" : "142",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #142 2024-03-28",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268100.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/04/this-week-in-psc-143.html",
       "date_meet" : "2024-04-04",
       "date_pub" : "2024-04-04",
       "num" : "143",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #143 2024-04-04",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268121.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/04/this-week-in-psc-144-2024-04-11.html",
       "date_meet" : "2024-04-11",
       "date_pub" : "2024-04-11",
       "num" : "144",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #144 2024-04-11",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268136.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/04/this-week-in-psc-145.html",
       "date_meet" : "2024-05-25",
       "date_pub" : "2024-04-25",
       "num" : "145",
+      "scribe" : "Graham Knop",
       "subj" : "PSC #145 2024-05-25",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268150.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/05/this-week-in-psc-146-2024-05-02.html",
       "date_meet" : "2024-05-02",
       "date_pub" : "2024-05-02",
       "num" : "146",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #146 2024-05-02",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268163.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/05/this-week-in-psc-147.html",
       "date_meet" : "2024-05-09",
       "date_pub" : "2024-05-09",
       "num" : "147",
+      "scribe" : "Paul Evans",
       "subj" : "PSC #147 2024-05-09",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268169.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/05/this-week-in-psc-148-2024-05-16.html",
       "date_meet" : "2024-05-16",
       "date_pub" : "2024-05-16",
       "num" : "148",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #148 2024-05-16",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268175.html"
    },
    {
+      "attendees" : [
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/05/this-week-in-psc-149-2024-05-30.html",
       "date_meet" : "2024-05-30",
       "date_pub" : "2024-05-30",
       "num" : "149",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #149 2024-05-30",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268214.html"
    },
    {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/06/this-week-in-psc-150-2024-06-06.html",
       "date_meet" : "2024-06-06",
       "date_pub" : "2024-06-06",
       "num" : "150",
+      "scribe" : "Philippe Bruhat",
       "subj" : "PSC #150 2024-06-06",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/06/msg268241.html"
    }
