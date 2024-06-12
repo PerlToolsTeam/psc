@@ -17,12 +17,41 @@ function createTable(data) {
       subjLink.href = item.url;
       subjLink.textContent = item.subj;
       subjCell.appendChild(subjLink);
+      if (item.blog) {
+        const blogLink = document.createElement('a');
+        blogLink.href = item.blog;
+        blogLink.textContent = '[blog post]';
+        subjCell.appendChild(document.createTextNode(' '));
+        if (blogLink instanceof Node) {
+          subjCell.appendChild(blogLink);
+        } else {
+          console.error('blogLink is not a Node:', blogLink);
+        }
+      }
       if (item.msg) {
         const renderedMsg = document.createTextNode(' (Note: ' + item.msg + ')');
         subjCell.appendChild(renderedMsg);
       }
     } else {
       subjCell.textContent = item.msg;
+    }
+    const attendeesCell = row.insertCell();
+    if (item.attendees) {
+      attendeesCell.textContent = item.attendees.join(', ');
+    } else {
+      attendeesCell.textContent = '';
+    }
+    const scribeCell = row.insertCell();
+    if (item.scribe) {
+      scribeCell.textContent = item.scribe;
+    } else {
+      scribeCell.textContent = '';
+    }
+    const inviteesCell = row.insertCell();
+    if (item.invitees) {
+      inviteesCell.textContent = item.invitees.join(', ');
+    } else {
+      inviteesCell.textContent = '';
     }
   });
 }
