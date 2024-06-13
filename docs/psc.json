@@ -1971,5 +1971,18 @@
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #150 2024-06-06",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/06/msg268241.html"
+   },
+   {
+      "attendees" : [
+         "Graham Knop",
+         "Philippe Bruhat"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/06/this-week-in-psc-151-2024-06-13.html",
+      "date_meet" : "2024-06-13",
+      "date_pub" : "2024-06-13",
+      "num" : "151",
+      "scribe" : "Philippe Bruhat",
+      "subj" : "PSC #151 2024-06-13",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/06/msg268266.html"
    }
 ]
