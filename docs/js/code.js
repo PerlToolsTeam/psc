@@ -108,6 +108,19 @@ async function init() {
   const data = await fetchJSON(json_url);
   createTable(data);
   sortTable(0);
+
+  let url = location.href.replace(/\/$/, "");
+
+  if (location.hash) {
+    const hash = url.split('#');
+
+    let tabTrigger = document.querySelector(`#nav-tab button[data-bs-target="#${hash[1]}"]`);
+    if (tabTrigger) { // Check if the tabTrigger exists
+        let tab = new bootstrap.Tab(tabTrigger);
+        tab.show();
+    }
+    url = location.href.replace(/\/#.+/, '/');
+}
 }
 
 init();
