@@ -1984,5 +1984,17 @@
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #151 2024-06-13",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/06/msg268266.html"
+   },
+   {
+      "attendees" : [
+         "Graham Knop",
+         "Philippe Bruhat"
+      ],
+      "date_meet" : "2024-06-20",
+      "date_pub" : "2024-06-23",
+      "num" : "152",
+      "scribe" : "Philippe Bruhat",
+      "subj" : "PSC #152 2024-06-20",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/06/msg268307.html"
    }
 ]
