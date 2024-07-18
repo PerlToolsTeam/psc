@@ -16,28 +16,6 @@ main > .container {
   padding: 60px 15px 0;
 }
 
-th::after {
-  content: "⇵";
-  font-size: 0.6em;
-  position: absolute;
-  right: 4px;
-  top: 50%;
-  transform: translateY(-50%);
-  opacity: 0.5;
-}
-
-th[data-sortable="false"]::after {
-  content: "";
-}
-
-th[data-sort-order="asc"]::after {
-  content: "⇧";
-}
-
-th[data-sort-order="desc"]::after {
-  content: "⇩";
-}
-
 td {
   font-variant-numeric: tabular-nums;
 }

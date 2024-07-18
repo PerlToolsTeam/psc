@@ -65,15 +65,12 @@ function compareRows(a, b, columnIndex) {
 function sortTable(columnIndex) {
   const table = document.getElementById('jsonTable');
   const columnHeader = table.getElementsByTagName('th')[columnIndex];
-  if (columnHeader.getAttribute('data-sortable') === 'false') {
-    return;
-  }
 
   const sortOrder = columnHeader.getAttribute('data-sort-order');
   columnHeader.setAttribute('data-sort-order', sortOrder === 'asc' ? 'desc' : 'asc');
 
   // Update sort icons
-  const allSortableHeaders = table.querySelectorAll('th[data-sortable="true"]');
+  const allSortableHeaders = table.querySelectorAll('th[data-sort-order]');
   allSortableHeaders.forEach(header => {
     const icon = header.querySelector('.sort-icon');
     icon.classList.remove('bi-arrow-down', 'bi-arrow-up');
