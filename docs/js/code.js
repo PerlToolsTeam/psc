@@ -70,7 +70,7 @@ function sortTable(columnIndex) {
   columnHeader.setAttribute('data-sort-order', sortOrder === 'asc' ? 'desc' : 'asc');
 
   // Update sort icons
-  const allSortableHeaders = table.querySelectorAll('th[data-sortable="true"]');
+  const allSortableHeaders = table.querySelectorAll('th[data-sort-order]');
   allSortableHeaders.forEach(header => {
     const icon = header.querySelector('.sort-icon');
     icon.classList.remove('bi-arrow-down', 'bi-arrow-up');
