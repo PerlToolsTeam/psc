@@ -65,9 +65,6 @@ function compareRows(a, b, columnIndex) {
 function sortTable(columnIndex) {
   const table = document.getElementById('jsonTable');
   const columnHeader = table.getElementsByTagName('th')[columnIndex];
-  if (columnHeader.getAttribute('data-sortable') === 'false') {
-    return;
-  }
 
   const sortOrder = columnHeader.getAttribute('data-sort-order');
   columnHeader.setAttribute('data-sort-order', sortOrder === 'asc' ? 'desc' : 'asc');
