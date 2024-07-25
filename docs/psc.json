@@ -1998,5 +1998,20 @@
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #152 2024-06-20",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/06/msg268307.html"
+   },
+   {
+      "attendees" : [
+         "Graham Knop",
+         "Philippe Bruhat",
+	 "Paul Evans",
+	 "Aristotle Pagaltzis"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/07/this-week-in-psc-153-2024-07-25.html",
+      "date_meet" : "2024-07-25",
+      "date_pub" : "2024-07-25",
+      "num" : "153",
+      "scribe" : "Philippe Bruhat",
+      "subj" : "PSC #153 2024-07-25",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/07/msg268569.html"
    }
 ]
