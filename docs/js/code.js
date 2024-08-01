@@ -5,7 +5,7 @@ async function fetchJSON(url) {
 }
 
 function createTable(data) {
-  const table = document.getElementById('jsonTable').getElementsByTagName('tbody')[0];
+  const table = document.getElementById('jsonTable').tBodies[0];
   data.forEach(item => {
     const row = table.insertRow();
     row.insertCell().textContent = item.num;
