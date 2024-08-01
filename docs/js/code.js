@@ -78,16 +78,9 @@ function sortTable(columnIndex) {
     return sortOrder === 'asc' ? comparison : -comparison;
   });
 
-  sortedRows.forEach((row, index) => {
-    const newRow = tbody.insertRow(index);
-    newRow.className = row.className;
-
-    Array.from(row.cells).forEach((cell, cellIndex) => {
-      newRow.insertCell(cellIndex).innerHTML = cell.innerHTML;
-    });
-
-    tbody.deleteRow(index + 1);
-  });
+  const newBody = table.createTBody();
+  sortedRows.forEach(row => newBody.appendChild(row));
+  table.removeChild(tbody);
 }
 
 async function init() {
