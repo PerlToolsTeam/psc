@@ -13,18 +13,14 @@ function createTable(data) {
     Object.assign(row.insertCell(), { 'className': 'date', 'textContent': item.date_pub });
     const subjCell = row.insertCell();
     if (item.subj) {
-      const subjLink = document.createElement('a');
-      subjLink.href = item.url;
-      subjLink.textContent = item.subj;
+      const subjLink = Object.assign(document.createElement('a'), { 'href': item.url, 'textContent': item.subj });
       subjCell.appendChild(subjLink);
       if (item.msg) {
         const renderedMsg = document.createTextNode(' (Note: ' + item.msg + ')');
         subjCell.appendChild(renderedMsg);
       }
       if (item.blog) {
-        const blogLink = document.createElement('a');
-        blogLink.href = item.blog;
-        blogLink.textContent = '[blog post]';
+        const blogLink = Object.assign(document.createElement('a'), { 'href': item.blog, 'textContent': '[blog post]' });
         subjCell.appendChild(document.createTextNode(' '));
         subjCell.appendChild(blogLink);
       }
