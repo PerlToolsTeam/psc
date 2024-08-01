@@ -8,9 +8,9 @@ function createTable(data) {
   const table = document.getElementById('jsonTable').tBodies[0];
   data.forEach(item => {
     const row = table.insertRow();
-    row.insertCell().textContent = item.num;
-    row.insertCell().textContent = item.date_meet;
-    row.insertCell().textContent = item.date_pub;
+    Object.assign(row.insertCell(), { 'className': 'num', 'textContent': item.num });
+    Object.assign(row.insertCell(), { 'className': 'date', 'textContent': item.date_meet });
+    Object.assign(row.insertCell(), { 'className': 'date', 'textContent': item.date_pub });
     const subjCell = row.insertCell();
     if (item.subj) {
       const subjLink = document.createElement('a');

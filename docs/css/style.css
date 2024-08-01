@@ -16,10 +16,12 @@ main > .container {
   padding: 60px 15px 0;
 }
 
-td {
+table .num,
+table .date {
+  white-space: nowrap;
   font-variant-numeric: tabular-nums;
 }
 
-td:nth-child(2) {
+th {
   white-space: nowrap;
 }
