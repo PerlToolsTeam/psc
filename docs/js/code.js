@@ -27,6 +27,10 @@ function createTable(data) {
         blogDiv.appendChild(blogLink);
         subjCell.appendChild(blogDiv);
       }
+      if (item.scribe) {
+        const scribeDiv = Object.assign(document.createElement('div'), { 'className': 'scribe', 'textContent': item.scribe });
+        subjCell.appendChild(scribeDiv);
+      }
     } else {
       subjCell.textContent = item.msg;
     }
@@ -36,10 +40,6 @@ function createTable(data) {
         const div = Object.assign(document.createElement('div'), { 'textContent':  name });
         attendeesCell.appendChild(div);
       });
-    }
-    const scribeCell = row.insertCell();
-    if (item.scribe) {
-      scribeCell.textContent = item.scribe;
     }
     const inviteesCell = Object.assign(row.insertCell(), { 'className': 'people' });
     if (item.invitees) {

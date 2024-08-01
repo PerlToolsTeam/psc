@@ -28,14 +28,17 @@ th {
 }
 
 table .blog,
+table .scribe,
 table .minutes {
   position: relative;
   padding-left: 20px;
 }
 table .blog::before,
+table .scribe::before,
 table .minutes::before {
   position: absolute;
   left: 0;
 }
 table .blog::before      { content: '\1F30E' }
+table .scribe::before    { content: '\270D\A0' }
 table .minutes::before   { content: '\1F4DD' }
