@@ -22,11 +22,7 @@ function createTable(data) {
         blogLink.href = item.blog;
         blogLink.textContent = '[blog post]';
         subjCell.appendChild(document.createTextNode(' '));
-        if (blogLink instanceof Node) {
-          subjCell.appendChild(blogLink);
-        } else {
-          console.error('blogLink is not a Node:', blogLink);
-        }
+        subjCell.appendChild(blogLink);
       }
       if (item.msg) {
         const renderedMsg = document.createTextNode(' (Note: ' + item.msg + ')');
@@ -38,20 +34,14 @@ function createTable(data) {
     const attendeesCell = row.insertCell();
     if (item.attendees) {
       attendeesCell.textContent = item.attendees.join(', ');
-    } else {
-      attendeesCell.textContent = '';
     }
     const scribeCell = row.insertCell();
     if (item.scribe) {
       scribeCell.textContent = item.scribe;
-    } else {
-      scribeCell.textContent = '';
     }
     const inviteesCell = row.insertCell();
     if (item.invitees) {
       inviteesCell.textContent = item.invitees.join(', ');
-    } else {
-      inviteesCell.textContent = '';
     }
   });
 }
