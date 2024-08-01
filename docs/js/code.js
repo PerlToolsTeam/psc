@@ -13,16 +13,19 @@ function createTable(data) {
     Object.assign(row.insertCell(), { 'className': 'date', 'textContent': item.date_pub });
     const subjCell = row.insertCell();
     if (item.subj) {
-      const subjLink = Object.assign(document.createElement('a'), { 'href': item.url, 'textContent': item.subj });
-      subjCell.appendChild(subjLink);
+      const minutesLink = Object.assign(document.createElement('a'), { 'href': item.url, 'textContent': item.subj });
+      const minutesDiv = Object.assign(document.createElement('div'), { 'className': 'minutes' });
+      minutesDiv.appendChild(minutesLink);
+      subjCell.appendChild(minutesDiv);
       if (item.msg) {
         const renderedMsg = document.createTextNode(' (Note: ' + item.msg + ')');
-        subjCell.appendChild(renderedMsg);
+        minutesDiv.appendChild(renderedMsg);
       }
       if (item.blog) {
-        const blogLink = Object.assign(document.createElement('a'), { 'href': item.blog, 'textContent': '[blog post]' });
-        subjCell.appendChild(document.createTextNode(' '));
-        subjCell.appendChild(blogLink);
+        const blogLink = Object.assign(document.createElement('a'), { 'href': item.blog, 'textContent': item.blog_title });
+        const blogDiv = Object.assign(document.createElement('div'), { 'className': 'blog' });
+        blogDiv.appendChild(blogLink);
+        subjCell.appendChild(blogDiv);
       }
     } else {
       subjCell.textContent = item.msg;
