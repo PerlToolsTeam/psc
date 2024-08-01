@@ -31,17 +31,23 @@ function createTable(data) {
     } else {
       subjCell.textContent = item.msg;
     }
-    const attendeesCell = row.insertCell();
+    const attendeesCell = Object.assign(row.insertCell(), { 'className': 'people' });
     if (item.attendees) {
-      attendeesCell.textContent = item.attendees.join(', ');
+      item.attendees.forEach(name => {
+        const div = Object.assign(document.createElement('div'), { 'textContent':  name });
+        attendeesCell.appendChild(div);
+      });
     }
     const scribeCell = row.insertCell();
     if (item.scribe) {
       scribeCell.textContent = item.scribe;
     }
-    const inviteesCell = row.insertCell();
+    const inviteesCell = Object.assign(row.insertCell(), { 'className': 'people' });
     if (item.invitees) {
-      inviteesCell.textContent = item.invitees.join(', ');
+      item.invitees.forEach(name => {
+        const div = Object.assign(document.createElement('div'), { 'textContent':  name });
+        inviteesCell.appendChild(div);
+      });
     }
   });
 }

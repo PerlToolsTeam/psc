@@ -22,6 +22,7 @@ table .date {
   font-variant-numeric: tabular-nums;
 }
 
+table .people,
 th {
   white-space: nowrap;
 }
