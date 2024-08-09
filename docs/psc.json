@@ -2095,5 +2095,19 @@
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #154 2024-08-01",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/08/msg268605.html"
+   },
+   {
+      "attendees" : [
+         "Graham Knop",
+         "Aristotle Pagaltzis"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/08/this-week-in-psc-155-2024-08-08.html",
+      "blog_title" : "This week in PSC (155) | 2024-08-08",
+      "date_meet" : "2024-08-08",
+      "date_pub" : "2024-08-08",
+      "num" : "155",
+      "scribe" : "Aristotle Pagaltzis",
+      "subj" : "PSC #155 2024-08-08",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/08/msg268648.html"
    }
 ]
