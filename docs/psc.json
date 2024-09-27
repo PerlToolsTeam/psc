@@ -2167,5 +2167,19 @@
       "scribe" : "Aristotle Pagaltzis",
       "subj" : "PSC #159 2024-09-05",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZttP3qw5r8Whxad6%40plasmasturm.org"
+   },
+   {
+      "attendees" : [
+         "Graham Knop",
+         "Aristotle Pagaltzis"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/09/this-week-in-psc-160-2024-09-12.html",
+      "blog_title" : "This week in PSC (160) | 2024-09-12",
+      "date_meet" : "2024-09-12",
+      "date_pub" : "2024-09-27",
+      "num" : "160",
+      "scribe" : "Graham Knop",
+      "subj" : "PSC #160 2024-09-12",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/09/msg268827.html"
    }
 ]
