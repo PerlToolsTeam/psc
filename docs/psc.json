@@ -2211,5 +2211,21 @@
       "scribe" : "Aristotle Pagaltzis",
       "subj" : "PSC #162 2024-10-03",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/10/msg268842.html"
+   },
+   {
+      "attendees" : [
+         "Philippe Bruhat",
+         "Graham Knop",
+         "Aristotle Pagaltzis",
+         "Olaf Alders"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/10/this-week-in-psc-163-2024-10-10.html",
+      "blog_title" : "This week in PSC (163) | 2024-10-10",
+      "date_meet" : "2024-10-10",
+      "date_pub" : "2024-10-11",
+      "num" : "163",
+      "scribe" : "Aristotle Pagaltzis",
+      "subj" : "PSC #163 2024-10-10",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZwhhbmJ5ydbVTRT2%40klangraum.plasmasturm.org"
    }
 ]
