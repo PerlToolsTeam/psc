@@ -2217,12 +2217,14 @@
          "Philippe Bruhat",
          "Graham Knop",
          "Aristotle Pagaltzis",
-         "Olaf Alders"
       ],
       "blog" : "https://blogs.perl.org/users/psc/2024/10/this-week-in-psc-163-2024-10-10.html",
       "blog_title" : "This week in PSC (163) | 2024-10-10",
       "date_meet" : "2024-10-10",
       "date_pub" : "2024-10-11",
+      "invitees" : [
+         "Olaf Alders"
+      ],
       "num" : "163",
       "scribe" : "Aristotle Pagaltzis",
       "subj" : "PSC #163 2024-10-10",
