@@ -11,7 +11,7 @@
       "num" : "001",
       "scribe" : "Neil Bowers",
       "subj" : "Perl Steering Council, meeting #001, 2020-01-08",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258761.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=a980a32e-81cd-4653-9b42-dafeb81404a8%40Spark"
    },
    {
       "attendees" : [
@@ -25,7 +25,7 @@
       "num" : "002",
       "scribe" : "Ricardo Signes",
       "subj" : "Perl Steering Council, meeting #002, 2020-01-12",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258771.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=be057471-55f1-494a-b4e0-53610240ffdb%40www.fastmail.com"
    },
    {
       "attendees" : [
@@ -52,7 +52,7 @@
       "num" : "004",
       "scribe" : "Neil Bowers",
       "subj" : "Perl Steering Council #004 2021-01-22",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/01/msg258932.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=7e09f24f-02f4-41d5-b772-9fa96beb2bba%40Spark"
    },
    {
       "attendees" : [
@@ -65,7 +65,7 @@
       "num" : "005",
       "scribe" : "Ricardo Signes",
       "subj" : "Perl Steering Council #005 2021-01-29",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg258952.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=3ee9c7fb-7ced-4226-a098-1f645da177bf%40www.fastmail.com"
    },
    {
       "attendees" : [
@@ -78,7 +78,7 @@
       "num" : "006",
       "scribe" : "Sawyer X",
       "subj" : "Perl Steering Council, meeting #006, 2021-02-05",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg259058.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=fa7132f8-68f5-9b02-61b1-41eb57cc04d7%40gmail.com"
    },
    {
       "attendees" : [
@@ -91,7 +91,7 @@
       "num" : "007",
       "scribe" : "Neil Bowers",
       "subj" : "PSC#007 2021-02-12",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg259107.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=734a9fe0-53bc-417c-b0ce-748c8f310f20%40Spark"
    },
    {
       "attendees" : [
@@ -117,7 +117,7 @@
       "num" : "009",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #009 2021-03-05",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259251.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=4275a6fb-c09d-4a72-b51c-d9cf86e73ee6%40Spark"
    },
    {
       "attendees" : [
@@ -130,7 +130,7 @@
       "num" : "010",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #10 - 2021-03-12",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259300.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=262dff0e-75f2-4b8a-be40-ade23037c113%40dogfood.fastmail.com"
    },
    {
       "attendees" : [
@@ -157,7 +157,7 @@
       "num" : "012",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #012 2012-03-26",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/03/msg259426.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=2fd799fd-2efc-423c-ad09-c839c2c00ce8%40Spark"
    },
    {
       "msg" : "The PSC private notes for #012 and #014 were both titled \"PSC #13 Agenda\". The confusion means that there was never a meeting #013.",
@@ -175,7 +175,7 @@
       "num" : "014",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #14 minutes, 2021-03-02",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259700.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=0c417edd-c205-4392-a5db-f21d524f849f%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -200,7 +200,7 @@
       "num" : "016",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #016 2021-04-16",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259929.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=79a3e5de-88a1-40a3-bcc0-03f8e79268ae%40Spark"
    },
    {
       "attendees" : [
@@ -215,7 +215,7 @@
       "num" : "017",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #017 2021-04-23",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259980.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=65b709c8-9d54-43f8-99ea-16b82818ee90%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -228,7 +228,7 @@
       "num" : "018",
       "scribe" : "Neil Bowers",
       "subj" : "Steering Council meeting #018 2021-04-30",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260001.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=faec8a08-739d-4e90-b604-cdcd90b39a8c%40Spark"
    },
    {
       "attendees" : [
@@ -241,7 +241,7 @@
       "num" : "019",
       "scribe" : "Nicholas Clark",
       "subj" : "Steering Council meeting #019 2021-05-06",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260050.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20210509191429.GK9170%40etla.org"
    },
    {
       "attendees" : [
@@ -254,7 +254,7 @@
       "num" : "020",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #020 - 2021-05-14",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260061.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=bb1eb7e3-8cb0-4b5e-b459-922f781ab44d%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -267,7 +267,7 @@
       "num" : "021",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #021 2021-05-21",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260126.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=46457b19-7866-48f3-a2e1-46ce2d86e172%40Spark"
    },
    {
       "attendees" : [
@@ -280,7 +280,7 @@
       "num" : "022",
       "scribe" : "Nicholas Clark",
       "subj" : "PSC #022 2021-05-28 minutes",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260333.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20210607132435.GU9170%40etla.org"
    },
    {
       "attendees" : [
@@ -293,7 +293,7 @@
       "num" : "023",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #23 2021-06-04 minutes",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260415.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=fade9f1d-659b-4aee-b0b7-424ce01cb0dd%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -306,7 +306,7 @@
       "num" : "024",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #024 2021-06-11",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260419.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=dda33030-ae08-4006-a501-6d56d76e0280%40Spark"
    },
    {
       "attendees" : [
@@ -319,7 +319,7 @@
       "num" : "025",
       "scribe" : "Nicholas Clark",
       "subj" : "PSC #025 2021-06-18 minutes",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/06/msg260708.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20210627095524.GE9170%40etla.org"
    },
    {
       "attendees" : [
@@ -332,7 +332,7 @@
       "num" : "026",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #026, 2021-06-25, minutes",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260752.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=c3a26fd6-f3d9-4723-99a3-d02aa51d032a%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -345,7 +345,7 @@
       "num" : "027",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #027 2021-07-02",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260858.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=fb71d7ab-449b-45b9-b8d7-6352d6790632%40Spark"
    },
    {
       "attendees" : [
@@ -358,7 +358,7 @@
       "num" : "028",
       "scribe" : "Paul Evans",
       "subj" : "PSC #028 2021-07-09 minutes",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260897.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20210716160223.6301d8ed%40shy.leonerd.org.uk"
    },
    {
       "msg" : "#29 is missing",
@@ -375,7 +375,7 @@
       "num" : "030",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #030 2021-070-23",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg260933.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=d373163e-ebcc-4ebb-8d90-2be5ed64d6da%40Spark"
    },
    {
       "attendees" : [
@@ -388,7 +388,7 @@
       "num" : "031",
       "scribe" : "Paul Evans",
       "subj" : "PSC #031 2021-07-30",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/07/msg261002.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20210730172425.1b508fe7%40shy.leonerd.org.uk"
    },
    {
       "msg" : "#32 is missing",
@@ -405,7 +405,7 @@
       "num" : "033",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #033 2021-08-13",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/08/msg261300.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=23aaf19a-bc21-4f58-8ee6-cb60c8d5e293%40Spark"
    },
    {
       "attendees" : [
@@ -422,7 +422,7 @@
       "num" : "034",
       "scribe" : "Paul Evans",
       "subj" : "PSC #034 2021-08-20 - \"Namespaces Special\"",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/08/msg261409.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20210827130816.7c516415%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -435,7 +435,7 @@
       "num" : "035",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #035 - 2021-08-27",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261639.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=e3dd4e41-3821-4244-b65f-3fc5bac58a4f%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -448,7 +448,7 @@
       "num" : "036",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #036 2021-09-03",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/09/msg261485.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=94fbcaf2-1e44-4e56-ab3f-539de1e27468%40Spark"
    },
    {
       "attendees" : [
@@ -461,7 +461,7 @@
       "num" : "037",
       "scribe" : "Paul Evans",
       "subj" : "PSC #037 - 2021-09-10",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/09/msg261526.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20210912201710.46648584%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -473,7 +473,7 @@
       "num" : "038",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #038 - 2021-09-17",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261644.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=1346f855-bf48-49fd-9668-d705cdd9a58f%40beta.fastmail.com"
    },
    {
       "msg" : "#39 is missing",
@@ -494,7 +494,7 @@
       "num" : "040",
       "scribe" : "Paul Evans",
       "subj" : "PSC #040(?) - Perl SV Flags special",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261722.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20211014111842.18e30462%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -507,7 +507,7 @@
       "num" : "041",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #041 — 2021-10-07",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261700.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=d740afd8-5624-4035-9a5d-8a11f2561085%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -520,7 +520,7 @@
       "num" : "042",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #42 2021-10-15",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/10/msg261780.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=d3729005-71bc-483a-ad91-96bb58ea3d8c%40Spark"
    },
    {
       "attendees" : [
@@ -533,7 +533,7 @@
       "num" : "043",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #043, 2021-10-29",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/11/msg261834.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=1c8a2d84-eee4-46bc-961a-0da3ba80556e%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -545,7 +545,7 @@
       "num" : "044",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #044 2021-11-05",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/11/msg261836.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=61432f75-8737-4170-ac93-75f4a265c3c0%40Spark"
    },
    {
       "attendees" : [
@@ -558,7 +558,7 @@
       "num" : "045",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=535abfaa-5539-4227-ac45-38ab4a633722%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -571,7 +571,7 @@
       "num" : "046",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=535abfaa-5539-4227-ac45-38ab4a633722%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -587,7 +587,7 @@
       "num" : "047",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=535abfaa-5539-4227-ac45-38ab4a633722%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -600,7 +600,7 @@
       "num" : "048",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC meeting notes, #45 #46 #47 #48 #49",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2021/12/msg262282.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=535abfaa-5539-4227-ac45-38ab4a633722%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -613,7 +613,7 @@
       "num" : "049",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #049 2022-01-07",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262350.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=3a9ce8c2-d99a-4661-8f76-8b9a713b09bc%40Spark"
    },
    {
       "attendees" : [
@@ -626,7 +626,7 @@
       "num" : "050",
       "scribe" : "Paul Evans",
       "subj" : "PSC #050 2022-01-14",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262479.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220120233230.1a217de5%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -638,7 +638,7 @@
       "num" : "051",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #051 2022-01-21",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262580.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=87e4db18-78c1-4b7e-97cd-ae474a926f26%40Spark"
    },
    {
       "attendees" : [
@@ -651,7 +651,7 @@
       "num" : "052",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #052 2021-01-28",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262656.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=2ab1a923-bd8c-4a18-b63a-60746352abba%40Spark"
    },
    {
       "attendees" : [
@@ -664,7 +664,7 @@
       "num" : "053",
       "scribe" : "Paul Evans",
       "subj" : "PSC #053 2022-02-04",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262747.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220209101815.6e0618ef%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -677,7 +677,7 @@
       "num" : "054",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #054 2022-02-11",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262856.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=d68fa7e9-b0a5-430c-be75-0068e4ee0846%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -690,7 +690,7 @@
       "num" : "055",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #055 2022-02-18",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/02/msg262935.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=8ce9dcc5-c8a4-4b52-a2b7-aa0b14baca0d%40Spark"
    },
    {
       "attendees" : [
@@ -703,7 +703,7 @@
       "num" : "056",
       "scribe" : "Paul Evans",
       "subj" : "PSC #056 2022-02-25",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263189.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220301180207.02ea57a6%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -716,7 +716,7 @@
       "num" : "057",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #057 2022-03-04",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263260.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=66e182b2-43f0-40fb-946d-e8e2f590f458%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -730,7 +730,7 @@
       "num" : "058",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #059 2022-03-11",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263374.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=da00a4b7-80f7-422a-a9e7-5366f9d29231%40Spark"
    },
    {
       "attendees" : [
@@ -743,7 +743,7 @@
       "num" : "059",
       "scribe" : "Paul Evans",
       "subj" : "PSC #059 2022-03-17",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263392.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220322211742.0b14da61%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -755,7 +755,7 @@
       "num" : "060",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC 60: 2022-03-25",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/03/msg263417.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=6f8b2773-6cda-4837-8a0c-8a3d76806858%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -768,7 +768,7 @@
       "num" : "061",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #061 2022-04-01",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/04/msg263449.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=efd77836-098c-4552-b9bb-d1a5c7f34809%40Spark"
    },
    {
       "attendees" : [
@@ -781,7 +781,7 @@
       "num" : "062",
       "scribe" : "Paul Evans",
       "subj" : "PSC #062 2022-04-08",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/04/msg263561.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220412134402.08a8c717%40shy.leonerd.org.uk"
    },
    {
       "msg" : "#63 is missing",
@@ -798,7 +798,7 @@
       "num" : "064",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #064 2022-04-22",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/04/msg263670.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=b082677c-d9c5-425e-bcc2-84412d53ba94%40Spark"
    },
    {
       "date_meet" : "2022-04-29",
@@ -806,7 +806,7 @@
       "msg" : "skipped meeting",
       "num" : "065",
       "subj" : "PSC #065 2022-04-29",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263696.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220501094840.26efc55c%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -820,7 +820,7 @@
       "num" : "065",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #065 2022-04-13",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263725.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=bd330499-4f09-4966-9735-c151a9806344%40Spark"
    },
    {
       "attendees" : [
@@ -833,7 +833,7 @@
       "num" : "066",
       "scribe" : "Paul Evans",
       "subj" : "PSC #066 2022-05-20",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263730.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220520194515.5a232f77%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -846,7 +846,7 @@
       "num" : "067",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #067 2022-06-03",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg263937.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=1cc90821-13c7-4882-8715-c6396aa7ed11%40Spark"
    },
    {
       "attendees" : [
@@ -859,7 +859,7 @@
       "num" : "068",
       "scribe" : "Paul Evans",
       "subj" : "PSC #068 - 2022-06-10",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg263980.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220613101150.2e19ea13%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -871,7 +871,7 @@
       "num" : "069",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC 069 - 2022-06-17",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg264046.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=622153b8-b694-46b7-8e8a-74a0031ecf05%40www.fastmail.com"
    },
    {
       "attendees" : [
@@ -886,7 +886,7 @@
       "num" : "070",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #070 2022-06-24",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/06/msg264230.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=14639364-99eb-48fa-b4dc-54c3d3aa80d1%40Spark"
    },
    {
       "attendees" : [
@@ -899,7 +899,7 @@
       "num" : "071",
       "scribe" : "Paul Evans",
       "subj" : "PSC #071 - 2022-07-01",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264336.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220708180301.7f5759eb%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -912,7 +912,7 @@
       "num" : "072",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #072 - 2022-07-08",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264405.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=19d916a3-2be3-4512-9305-d7dbbb1202c7%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -924,7 +924,7 @@
       "num" : "073",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #073 - 2022-07-15",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264406.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=dd499bfd-bd5b-442d-a162-85cd34c8d5d3%40beta.fastmail.com"
    },
    {
       "attendees" : [
@@ -936,7 +936,7 @@
       "num" : "074",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #074 - 2022-07-22",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/07/msg264487.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=YuBqWTz6HKZikdHL%40kapow.home"
    },
    {
       "attendees" : [
@@ -948,7 +948,7 @@
       "num" : "075",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #075 2022-08-05",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264583.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=YvbAMO9UEOKOISz4%40kapow.home"
    },
    {
       "attendees" : [
@@ -961,7 +961,7 @@
       "num" : "076",
       "scribe" : "Paul Evans",
       "subj" : "PSC #076 - 2022-08-12",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264637.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220817233612.686110a2%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -973,7 +973,7 @@
       "num" : "077",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #077 - 2022-08-19",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/08/msg264679.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=YwjG6EeT9mTs7875%40kapow.home"
    },
    {
       "attendees" : [
@@ -986,7 +986,7 @@
       "num" : "078",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #078 2022-09-09",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/09/msg264748.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=116ce5c2-980f-44d0-bb37-62aeaafb5099%40betaapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -999,7 +999,7 @@
       "num" : "079",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #079 - 2022-09-16",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/09/msg264830.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Yy2HOFnCUsJyKhhP%40kapow.home"
    },
    {
       "attendees" : [
@@ -1012,7 +1012,7 @@
       "num" : "080",
       "scribe" : "Paul Evans",
       "subj" : "PSC #080 - 2022-09-23",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264897.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20221004224741.43e0424b%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1025,7 +1025,7 @@
       "num" : "081",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC 081: 2022-09-30",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264937.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=a8e49603-42e5-4316-bc91-84e97a6139e7%40betaapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -1038,7 +1038,7 @@
       "num" : "082",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #082 - 2022-10-07",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264938.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Y0ijhzwmF%2FXMTygj%40kapow.home"
    },
    {
       "attendees" : [
@@ -1050,7 +1050,7 @@
       "num" : "083",
       "scribe" : "Paul Evans",
       "subj" : "PSC #083 2022-10-14",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg265000.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20221029204838.69b9f34e%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1063,7 +1063,7 @@
       "num" : "084",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #084 2022-10-21",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264961.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=82123921-281d-4c41-b094-f23e5129e3e2%40betaapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -1076,7 +1076,7 @@
       "num" : "085",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #085 2022-10-28",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/10/msg264996.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Y1wEl9kQyx40R49A%40kapow.home"
    },
    {
       "attendees" : [
@@ -1091,7 +1091,7 @@
       "num" : "086",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #086: 2022-11-11",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265051.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=87a38221-16f8-499d-8a18-d1c3ec474110%40betaapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -1106,7 +1106,7 @@
       "num" : "087",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #087 2022-11-18",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265075.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Y3e7SOekGspRGUL4%40kapow.home"
    },
    {
       "attendees" : [
@@ -1120,7 +1120,7 @@
       "num" : "088",
       "scribe" : "Paul Evans",
       "subj" : "PSC #088 2022-11-25",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/11/msg265124.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20221125170129.2b25cf77%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1135,7 +1135,7 @@
       "num" : "089",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #089: 2022-12-02",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265181.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=8b4fa8c6-fdd9-483a-a87b-9eef227ecd58%40betaapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -1149,7 +1149,7 @@
       "num" : "090",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #090: 2022-12-09",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265209.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=dce4aed2-ed6a-49c7-a903-0b002dd809eb%40betaapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -1164,7 +1164,7 @@
       "num" : "091",
       "scribe" : "Paul Evans",
       "subj" : "PSC #091: 2022-12-16",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2022/12/msg265251.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20221216175926.48762113%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1179,7 +1179,7 @@
       "num" : "092",
       "scribe" : "Paul Evans",
       "subj" : "PSC #092: 2023-01-06",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265402.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20230106172858.1df087ab%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1194,7 +1194,7 @@
       "num" : "093",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #093: 2023-01-13",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265433.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=7f753196-d371-4708-bfef-45ec9c8a3a7f%40betaapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -1209,7 +1209,7 @@
       "num" : "094",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #094: 2023-01-20",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265548.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Y8rOfo6QL863%2FE4L%40kapow.home"
    },
    {
       "attendees" : [
@@ -1224,7 +1224,7 @@
       "num" : "095",
       "scribe" : "Paul Evans",
       "subj" : "PSC #095: 2023-01-27",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/01/msg265586.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20230127171425.5ee1d4cb%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1238,7 +1238,7 @@
       "num" : "096",
       "scribe" : "Paul Evans",
       "subj" : "PSC #096: 2023-02-03",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265630.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20230203171028.50108325%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1252,7 +1252,7 @@
       "num" : "097",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #097: 2023-02-10",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265689.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Y%2BZ9ZLnsgVdhIUUt%40kapow.home"
    },
    {
       "attendees" : [
@@ -1266,7 +1266,7 @@
       "num" : "098",
       "scribe" : "Paul Evans",
       "subj" : "PSC #098: 2023-02-17",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/02/msg265743.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20230217172623.6715ff7d%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1281,7 +1281,7 @@
       "num" : "099",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #099: 2023-03-03",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg265892.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZAIs4PZj7tl5Pswt%40kapow.home"
    },
    {
       "attendees" : [
@@ -1299,7 +1299,7 @@
       "num" : "100",
       "scribe" : "Paul Evans",
       "subj" : "PSC #100 2023-03-10",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg265972.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20230310171224.01165b35%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1314,7 +1314,7 @@
       "num" : "101",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #101, 2023-03-17",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg266036.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=26068e06-3466-4c04-bb21-d20cbe8e146f%40betaapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -1329,7 +1329,7 @@
       "num" : "102",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #102: 2023-03-R24",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/03/msg266118.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZB46XLcRsn1YU3Sc%40kapow.home"
    },
    {
       "attendees" : [
@@ -1347,7 +1347,7 @@
       "num" : "103",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #103 - 2023-04-07",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266152.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=f53f6edc-4a61-419a-bedb-ae63a67e778a%40betaapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -1362,7 +1362,7 @@
       "num" : "104",
       "scribe" : "Paul Evans",
       "subj" : "PSC #104 2023-04-21",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266247.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20230421170818.77af5f51%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1377,7 +1377,7 @@
       "num" : "105",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #105 2023-04-28",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/04/msg266280.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=bc5ac1a3-f872-4a8c-88c1-18d4c025028e%40dogfoodapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -1392,7 +1392,7 @@
       "num" : "106",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #106 2023-05-05",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266330.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZFX0wjX5pah6v0d8%40kapow.home"
    },
    {
       "attendees" : [
@@ -1407,7 +1407,7 @@
       "num" : "107",
       "scribe" : "Paul Evans",
       "subj" : "PSC #107 2023-05-12",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266400.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20230519160631.4687782e%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1421,7 +1421,7 @@
       "num" : "108",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #108 2023-05-26",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/05/msg266457.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZHDXlvHy0eYr67yP%40kapow.home"
    },
    {
       "attendees" : [
@@ -1437,7 +1437,7 @@
       "num" : "109",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #109 - 2023-05-09",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/06/msg266502.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=349c3fed-8f5f-4edc-a4eb-e9a5ebbee0bc%40betaapp.fastmail.com"
    },
    {
       "msg" : "'what happened to 110 you ask?  Well, it was a bit of a non-meeting a few weeks ago.  Nothing to say about it, sorry!' - rjbs",
@@ -1457,7 +1457,7 @@
       "num" : "111",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #111: 2023-08-11",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266790.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=82838396-cfdb-47c3-a657-c1c90e7cc1d0%40betaapp.fastmail.com"
    },
    {
       "attendees" : [
@@ -1472,7 +1472,7 @@
       "num" : "112",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #112 2023-08-17",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266860.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZN6W0tzoTGHiLUb2%40kapow.home"
    },
    {
       "attendees" : [
@@ -1487,7 +1487,7 @@
       "num" : "113",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #113 2023-08-24",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266978.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZOeDw5E5ozzkP1Ri%40kapow.home"
    },
    {
       "attendees" : [
@@ -1502,7 +1502,7 @@
       "num" : "114",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #114 2023-08-31",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/08/msg266990.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZPDIIbTygXo1Uakj%40kapow.home"
    },
    {
       "attendees" : [
@@ -1517,7 +1517,7 @@
       "num" : "115",
       "scribe" : "Paul Evans",
       "subj" : "PSC #115 2023-09-07",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267023.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20230907172235.436dac68%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1531,7 +1531,7 @@
       "num" : "116",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #116 2023-09-14",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267086.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZQ777laoFJ4ok3QP%40kapow.home"
    },
    {
       "attendees" : [
@@ -1545,7 +1545,7 @@
       "num" : "117",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #117 2023-09-21",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267087.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZQ79Yi26ja0sz0bE%40kapow.home"
    },
    {
       "attendees" : [
@@ -1560,7 +1560,7 @@
       "num" : "118",
       "scribe" : "Paul Evans",
       "subj" : "PSC #118 2023-09-28",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/09/msg267115.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20230928170917.6d8b01f9%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1575,7 +1575,7 @@
       "num" : "119",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #119 2023-10-05",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267140.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZR7lj2YmCte3ZUu2%40kapow.home"
    },
    {
       "attendees" : [
@@ -1605,7 +1605,7 @@
       "num" : "121",
       "scribe" : "Paul Evans",
       "subj" : "PSC #121 2023-10-19",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267205.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20231019172453.67a0396d%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1621,7 +1621,7 @@
       "num" : "122",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #121 2023-10-26",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/10/msg267230.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZTqVfGtU20ho5TbJ%40kapow.home"
    },
    {
       "attendees" : [
@@ -1636,7 +1636,7 @@
       "num" : "123",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #123 2023-11-09",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267463.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZW3y%2Fp%2BnO1iCj3BS%40kapow.home"
    },
    {
       "attendees" : [
@@ -1651,7 +1651,7 @@
       "num" : "124",
       "scribe" : "Paul Evans",
       "subj" : "PSC #124 2023-11-16",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/11/msg267346.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20231123171821.6f8509fd%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1666,7 +1666,7 @@
       "num" : "125",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #125 2023-11-23",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/11/msg267347.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZV%2FCvTHK%2BrwrFKCb%40kapow.home"
    },
    {
       "attendees" : [
@@ -1681,7 +1681,7 @@
       "num" : "126",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #126 2023-11-30",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267462.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZW3sgL74cEpCVBaT%40kapow.home"
    },
    {
       "attendees" : [
@@ -1696,7 +1696,7 @@
       "num" : "127",
       "scribe" : "Paul Evans",
       "subj" : "PSC #127 2023-12-07",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267500.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20231207174641.3ad89e58%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1710,7 +1710,7 @@
       "num" : "128",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #128 2023-12-14",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267538.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZXtOeDNVbhVLrv78%40kapow.home"
    },
    {
       "attendees" : [
@@ -1725,7 +1725,7 @@
       "num" : "129",
       "scribe" : "Paul Evans",
       "subj" : "PSC #129 2023-12-21",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2023/12/msg267551.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20231221170944.2e0bb112%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1740,7 +1740,7 @@
       "num" : "130",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #130 2024-01-04",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267619.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZZdAYxN1CrfsTxOo%40kapow.home"
    },
    {
       "attendees" : [
@@ -1755,7 +1755,7 @@
       "num" : "131",
       "scribe" : "Paul Evans",
       "subj" : "PSC #131 2024-01-12",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267685.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20240112171555.6c914dec%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1784,7 +1784,7 @@
       "num" : "133",
       "scribe" : "Paul Evans",
       "subj" : "PSC #133 2024-01-25",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/01/msg267765.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20240125171302.1dcf4ea7%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1799,7 +1799,7 @@
       "num" : "134",
       "scribe" : "Paul Evans",
       "subj" : "PSC #134 2024-02-01",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267778.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20240201174057.343de93b%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1814,7 +1814,7 @@
       "num" : "135",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #135 2024-02-08",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267835.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZcchZysVhtiByuAf%40kapow.home"
    },
    {
       "attendees" : [
@@ -1843,7 +1843,7 @@
       "num" : "137",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #137 2024-02-22",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg267994.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Zdu%2BvUZAhTF1G1l8%40kapow.home"
    },
    {
       "attendees" : [
@@ -1858,7 +1858,7 @@
       "num" : "138",
       "scribe" : "Paul Evans",
       "subj" : "PSC #138 2024-02-28",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/02/msg268017.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20240229192655.78ea7832%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1872,7 +1872,7 @@
       "num" : "139",
       "scribe" : "Paul Evans",
       "subj" : "PSC #139 2024-03-07",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268032.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20240307172227.63c692f7%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1902,7 +1902,7 @@
       "num" : "141",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #141 2024-03-21",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268075.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Zfx11kKgjKZLhYGW%40kapow.home"
    },
    {
       "attendees" : [
@@ -1917,7 +1917,7 @@
       "num" : "142",
       "scribe" : "Paul Evans",
       "subj" : "PSC #142 2024-03-28",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/03/msg268100.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20240328175031.7986f0b7%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1932,7 +1932,7 @@
       "num" : "143",
       "scribe" : "Paul Evans",
       "subj" : "PSC #143 2024-04-04",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268121.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20240404180325.26166c23%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -1947,7 +1947,7 @@
       "num" : "144",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #144 2024-04-11",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/04/msg268136.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZhgI26IHhe4jsY4O%40kapow.home"
    },
    {
       "attendees" : [
@@ -1977,7 +1977,7 @@
       "num" : "146",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #146 2024-05-02",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268163.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZjO0lPve%2FlifbSVj%40kapow.home"
    },
    {
       "attendees" : [
@@ -1991,7 +1991,7 @@
       "num" : "147",
       "scribe" : "Paul Evans",
       "subj" : "PSC #147 2024-05-09",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268169.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20240509162745.4d12e838%40shy.leonerd.org.uk"
    },
    {
       "attendees" : [
@@ -2006,7 +2006,7 @@
       "num" : "148",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #148 2024-05-16",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268175.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZkYyIANgu8eDWILg%40kapow.home"
    },
    {
       "attendees" : [
@@ -2020,7 +2020,7 @@
       "num" : "149",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #149 2024-05-30",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/05/msg268214.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZlintWEht1QVMQJ9%40kapow.home"
    },
    {
       "attendees" : [
@@ -2035,7 +2035,7 @@
       "num" : "150",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #150 2024-06-06",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/06/msg268241.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZmHseEN5Y8bvWeMW%40kapow.home"
    },
    {
       "attendees" : [
@@ -2049,7 +2049,7 @@
       "num" : "151",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #151 2024-06-13",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/06/msg268266.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZmsT142bdvhpiZPQ%40kapow.home"
    },
    {
       "attendees" : [
@@ -2063,7 +2063,7 @@
       "num" : "152",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #152 2024-06-20",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/06/msg268307.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZniISJ%2BXtNmVTdMS%40kapow.home"
    },
    {
       "attendees" : [
@@ -2079,7 +2079,7 @@
       "num" : "153",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #153 2024-07-25",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/07/msg268569.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZqLKn5PdLpsXcKMw%40kapow.home"
    },
    {
       "attendees" : [
@@ -2094,7 +2094,7 @@
       "num" : "154",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #154 2024-08-01",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/08/msg268605.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Zqu5zb5m4a%2FA%2BlVW%40kapow.home"
    },
    {
       "attendees" : [
@@ -2108,7 +2108,7 @@
       "num" : "155",
       "scribe" : "Aristotle Pagaltzis",
       "subj" : "PSC #155 2024-08-08",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/08/msg268648.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZrT7sRnI88SKjLup%40plasmasturm.org"
    },
    {
       "attendees" : [
@@ -2136,7 +2136,7 @@
       "num" : "157",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #157 2024-08-23",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/08/msg268750.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZsiuIhEgbc4CkDV%2F%40kapow.home"
    },
    {
       "attendees" : [
@@ -2195,7 +2195,7 @@
       "num" : "161",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #161 2024-09-27",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/09/msg268828.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZvawImhO4IdJyBXn%40kapow.home"
    },
    {
       "attendees" : [
@@ -2210,7 +2210,7 @@
       "num" : "162",
       "scribe" : "Aristotle Pagaltzis",
       "subj" : "PSC #162 2024-10-03",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/10/msg268842.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Zv7eduLSLzWmXvIz%40klangraum.plasmasturm.org"
    },
    {
       "attendees" : [
@@ -2243,7 +2243,7 @@
       "num" : 164,
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #164 2024-10-17",
-      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/10/msg268948.html"
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZxFn8k28W4VJOG0c%40kapow.home"
    },
    {
       "attendees" : [
