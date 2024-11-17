@@ -2293,5 +2293,20 @@
       "scribe" : "Aristotle Pagaltzis",
       "subj" : "PSC #167 2024-11-07",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Zy1jVTwuhH6juJbW%40klangraum.plasmasturm.org"
+   },
+   {
+      "attendees" : [
+         "Philippe Bruhat",
+         "Graham Knop",
+         "Aristotle Pagaltzis"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/11/this-week-in-psc-168-2024-11-15.html",
+      "blog_title" : "This week in PSC (168) | 2024-11-15",
+      "date_meet" : "2024-11-15",
+      "date_pub" : "2024-11-15",
+      "num" : 168,
+      "scribe" : "Aristotle Pagaltzis",
+      "subj" : "PSC #168 2024-11-15",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/2024/11/msg269126.html"
    }
 ]
