@@ -2308,5 +2308,19 @@
       "scribe" : "Aristotle Pagaltzis",
       "subj" : "PSC #168 2024-11-15",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Zzi21gFNullpWlnE%40kapow.home"
+   },
+   {
+      "attendees" : [
+         "Philippe Bruhat",
+         "Aristotle Pagaltzis"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2024/11/this-week-in-psc-169-2024-11-21.html",
+      "blog_title" : "This week in PSC (169) | 2024-11-21",
+      "date_meet" : "2024-11-21",
+      "date_pub" : "2024-11-21",
+      "num" : 169,
+      "scribe" : "Aristotle Pagaltzis",
+      "subj" : "PSC #169 2024-11-21",
+      "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=Zz-wcjcuL8uLTA__%40klangraum.plasmasturm.org"
    }
 ]
