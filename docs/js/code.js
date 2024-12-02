@@ -4,6 +4,10 @@ async function fetchJSON(url) {
   return data;
 }
 
+function msgidToUrl (msgid) {
+  return 'https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=' + encodeURI(msgid)
+}
+
 function createTable(data) {
   const table = document.getElementById('jsonTable').tBodies[0];
   data.forEach(item => {
@@ -13,7 +17,7 @@ function createTable(data) {
     Object.assign(row.insertCell(), { 'className': 'date', 'textContent': item.date_pub });
     const subjCell = row.insertCell();
     if (item.mail_subj) {
-      const minutesLink = Object.assign(document.createElement('a'), { 'href': item.url, 'textContent': item.mail_subj });
+      const minutesLink = Object.assign(document.createElement('a'), { 'href': msgidToUrl(item.mail_msgid), 'textContent': item.mail_subj });
       const minutesDiv = Object.assign(document.createElement('div'), { 'className': 'minutes' });
       minutesDiv.appendChild(minutesLink);
       subjCell.appendChild(minutesDiv);
