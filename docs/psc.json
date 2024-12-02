@@ -7,8 +7,8 @@
       ],
       "date_meet" : "2021-01-08",
       "date_pub" : "2021-01-09",
-      "msg" : "typo in date",
       "num" : "001",
+      "remark" : "typo in date",
       "scribe" : "Neil Bowers",
       "subj" : "Perl Steering Council, meeting #001, 2020-01-08",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=a980a32e-81cd-4653-9b42-dafeb81404a8%40Spark"
@@ -21,8 +21,8 @@
       ],
       "date_meet" : "2021-01-12",
       "date_pub" : "2021-01-12",
-      "msg" : "typo in date",
       "num" : "002",
+      "remark" : "typo in date",
       "scribe" : "Ricardo Signes",
       "subj" : "Perl Steering Council, meeting #002, 2020-01-12",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=be057471-55f1-494a-b4e0-53610240ffdb%40www.fastmail.com"
@@ -35,8 +35,8 @@
       ],
       "date_meet" : "2021-01-15",
       "date_pub" : "2021-01-17",
-      "msg" : "typo in date",
       "num" : "003",
+      "remark" : "typo in date",
       "scribe" : "Sawyer X",
       "subj" : "Perl Steering Council, meeting #003, 2020-01-15",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=CAMvkq_RTJj6E6%3DQUWwGaywb_uZDOsssmVhM25qGkOcHTLE%2BJjA%40mail.gmail.com"
@@ -153,15 +153,15 @@
       ],
       "date_meet" : "2021-03-26",
       "date_pub" : "2021-03-26",
-      "msg" : "typo in date",
       "num" : "012",
+      "remark" : "typo in date",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #012 2012-03-26",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=2fd799fd-2efc-423c-ad09-c839c2c00ce8%40Spark"
    },
    {
-      "msg" : "The PSC private notes for #012 and #014 were both titled \"PSC #13 Agenda\". The confusion means that there was never a meeting #013.",
-      "num" : "013"
+      "num" : "013",
+      "remark" : "The PSC private notes for #012 and #014 were both titled \"PSC #13 Agenda\". The confusion means that there was never a meeting #013."
    },
    {
       "attendees" : [
@@ -171,8 +171,8 @@
       ],
       "date_meet" : "2021-04-02",
       "date_pub" : "2021-04-04",
-      "msg" : "typo in date",
       "num" : "014",
+      "remark" : "typo in date",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #14 minutes, 2021-03-02",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=0c417edd-c205-4392-a5db-f21d524f849f%40beta.fastmail.com"
@@ -361,8 +361,8 @@
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20210716160223.6301d8ed%40shy.leonerd.org.uk"
    },
    {
-      "msg" : "#29 is missing",
-      "num" : "029"
+      "num" : "029",
+      "remark" : "#29 is missing"
    },
    {
       "attendees" : [
@@ -391,8 +391,8 @@
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20210730172425.1b508fe7%40shy.leonerd.org.uk"
    },
    {
-      "msg" : "#32 is missing",
-      "num" : "032"
+      "num" : "032",
+      "remark" : "#32 is missing"
    },
    {
       "attendees" : [
@@ -476,8 +476,8 @@
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=1346f855-bf48-49fd-9668-d705cdd9a58f%40beta.fastmail.com"
    },
    {
-      "msg" : "#39 is missing",
-      "num" : "039"
+      "num" : "039",
+      "remark" : "#39 is missing"
    },
    {
       "attendees" : [
@@ -726,8 +726,8 @@
       ],
       "date_meet" : "2022-03-11",
       "date_pub" : "2022-03-16",
-      "msg" : "incorrect number",
       "num" : "058",
+      "remark" : "incorrect number",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #059 2022-03-11",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=da00a4b7-80f7-422a-a9e7-5366f9d29231%40Spark"
@@ -784,8 +784,8 @@
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220412134402.08a8c717%40shy.leonerd.org.uk"
    },
    {
-      "msg" : "#63 is missing",
-      "num" : "063"
+      "num" : "063",
+      "remark" : "#63 is missing"
    },
    {
       "attendees" : [
@@ -803,8 +803,8 @@
    {
       "date_meet" : "2022-04-29",
       "date_pub" : "2022-05-01",
-      "msg" : "skipped meeting",
       "num" : "065",
+      "remark" : "skipped meeting",
       "subj" : "PSC #065 2022-04-29",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=20220501094840.26efc55c%40shy.leonerd.org.uk"
    },
@@ -816,8 +816,8 @@
       ],
       "date_meet" : "2022-05-13",
       "date_pub" : "2022-05-18",
-      "msg" : "typo in date",
       "num" : "065",
+      "remark" : "typo in date",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #065 2022-04-13",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=bd330499-4f09-4966-9735-c151a9806344%40Spark"
@@ -882,8 +882,8 @@
       ],
       "date_meet" : "2022-06-25",
       "date_pub" : "2022-06-30",
-      "msg" : "typo in date",
       "num" : "070",
+      "remark" : "typo in date",
       "scribe" : "Neil Bowers",
       "subj" : "PSC #070 2022-06-24",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=14639364-99eb-48fa-b4dc-54c3d3aa80d1%40Spark"
@@ -1433,15 +1433,15 @@
       "blog_title" : "This week in PSC (109) | 2023-06-09",
       "date_meet" : "2023-06-09",
       "date_pub" : "2023-06-09",
-      "msg" : "typo in date",
       "num" : "109",
+      "remark" : "typo in date",
       "scribe" : "Ricardo Signes",
       "subj" : "PSC #109 - 2023-05-09",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=349c3fed-8f5f-4edc-a4eb-e9a5ebbee0bc%40betaapp.fastmail.com"
    },
    {
-      "msg" : "'what happened to 110 you ask?  Well, it was a bit of a non-meeting a few weeks ago.  Nothing to say about it, sorry!' - rjbs",
-      "num" : "110"
+      "num" : "110",
+      "remark" : "'what happened to 110 you ask?  Well, it was a bit of a non-meeting a few weeks ago.  Nothing to say about it, sorry!' - rjbs"
    },
    {
       "attendees" : [
@@ -1617,8 +1617,8 @@
       "blog_title" : "This week in PSC (122) | 2023-10-26",
       "date_meet" : "2023-10-26",
       "date_pub" : "2023-10-26",
-      "msg" : "incorrect number",
       "num" : "122",
+      "remark" : "incorrect number",
       "scribe" : "Philippe Bruhat",
       "subj" : "PSC #121 2023-10-26",
       "url" : "https://www.nntp.perl.org/group/perl.perl5.porters/;msgid=ZTqVfGtU20ho5TbJ%40kapow.home"

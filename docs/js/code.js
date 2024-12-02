@@ -17,8 +17,8 @@ function createTable(data) {
       const minutesDiv = Object.assign(document.createElement('div'), { 'className': 'minutes' });
       minutesDiv.appendChild(minutesLink);
       subjCell.appendChild(minutesDiv);
-      if (item.msg) {
-        const renderedMsg = document.createTextNode(' (Note: ' + item.msg + ')');
+      if (item.remark) {
+        const renderedMsg = document.createTextNode(' (Note: ' + item.remark + ')');
         minutesDiv.appendChild(renderedMsg);
       }
       if (item.blog) {
@@ -32,7 +32,7 @@ function createTable(data) {
         subjCell.appendChild(scribeDiv);
       }
     } else {
-      subjCell.textContent = item.msg;
+      subjCell.textContent = item.remark;
     }
     const attendeesCell = Object.assign(row.insertCell(), { 'className': 'people' });
     if (item.attendees) {
