@@ -12,8 +12,8 @@ function createTable(data) {
     Object.assign(row.insertCell(), { 'className': 'date', 'textContent': item.date_meet });
     Object.assign(row.insertCell(), { 'className': 'date', 'textContent': item.date_pub });
     const subjCell = row.insertCell();
-    if (item.subj) {
-      const minutesLink = Object.assign(document.createElement('a'), { 'href': item.url, 'textContent': item.subj });
+    if (item.mail_subj) {
+      const minutesLink = Object.assign(document.createElement('a'), { 'href': item.url, 'textContent': item.mail_subj });
       const minutesDiv = Object.assign(document.createElement('div'), { 'className': 'minutes' });
       minutesDiv.appendChild(minutesLink);
       subjCell.appendChild(minutesDiv);
