@@ -2429,5 +2429,20 @@
       "mail_subj" : "PSC #176 2025-01-16",
       "num" : "176",
       "scribe" : "Aristotle Pagaltzis"
+   },
+   {
+      "attendees" : [
+         "Philippe Bruhat",
+         "Graham Knop",
+         "Aristotle Pagaltzis"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2025/01/this-week-in-psc-177-2025-01-23.html",
+      "blog_title" : "This week in PSC (177) | 2025-01-23",
+      "date_meet" : "2025-01-23",
+      "date_pub" : "2025-01-23",
+      "mail_msgid" : "Z5KZaziZ37N1--Ct@klangraum.plasmasturm.org",
+      "mail_subj" : "PSC #177 2025-01-23",
+      "num" : "177",
+      "scribe" : "Aristotle Pagaltzis"
    }
 ]
