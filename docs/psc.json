@@ -2756,5 +2756,19 @@
       "mail_subj" : "PSC #198 2025-07-04",
       "num" : "198",
       "scribe" : "Aristotle Pagaltzis"
+   },
+   {
+      "attendees" : [
+         "Philippe Bruhat",
+         "Graham Knop"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2025/08/this-week-in-psc-199-2025-08-07.html",
+      "blog_title" : "This week in PSC (199) | 2025-08-07",
+      "date_meet" : "2025-08-07",
+      "date_pub" : "2025-08-08",
+      "mail_msgid" : "aJXSugAsjSTgVB6a@kapow.home",
+      "mail_subj" : "PSC #199 2025-08-07",
+      "num" : "199",
+      "scribe" : "Philippe Bruhat"
    }
 ]
