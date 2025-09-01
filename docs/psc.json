@@ -2770,5 +2770,22 @@
       "mail_subj" : "PSC #199 2025-08-07",
       "num" : "199",
       "scribe" : "Philippe Bruhat"
+   },
+   {
+      "attendees" : [
+         "Philippe Bruhat",
+         "Aristotle Pagaltzis",
+         "Graham Knop",
+         "Paul Evans",
+         "Leon Timmermans"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2025/09/this-week-in-psc-200-2025-08-27.html",
+      "blog_title" : "This week in PSC (200) | 2025-08-27",
+      "date_meet" : "2025-08-27",
+      "date_pub" : "2025-09-01",
+      "mail_msgid" : "aLWUuRKmLtt_f3ac@klangraum.plasmasturm.org",
+      "mail_subj" : "PSC #200 2025-08-27",
+      "num" : "200",
+      "scribe" : "Aristotle Pagaltzis"
    }
 ]
