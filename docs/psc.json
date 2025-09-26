@@ -2787,5 +2787,17 @@
       "mail_subj" : "PSC #200 2025-08-27",
       "num" : "200",
       "scribe" : "Aristotle Pagaltzis"
+   },
+   {
+      "attendees" : [
+         "Paul Evans",
+         "Leon Timmermans"
+      ],
+      "date_meet" : "2025-09-25",
+      "date_pub" : "2025-09-25",
+      "mail_msgid" : "20250925155650.05233553@vel.leo",
+      "mail_subj" : "PSC #201 2025-09-25",
+      "num" : "201",
+      "scribe" : "Paul Evans"
    }
 ]
