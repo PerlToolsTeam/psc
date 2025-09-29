@@ -2791,15 +2791,31 @@
    {
       "attendees" : [
          "Paul Evans",
+         "Leon Timmermans",
+         "Aristotle Pagaltzis"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2025/09/this-week-in-psc-201-2025-09-01.html",
+      "blog_title" : "This week in PSC (201) | 2025-09-01",
+      "date_meet" : "2025-09-01",
+      "date_pub" : "2025-09-29",
+      "mail_msgid" : "aNrZAW_7oaf0-w4l@klangraum.plasmasturm.org",
+      "mail_subj" : "PSC #201 2025-09-01",
+      "num" : "202",
+      "scribe" : "Aristotle Pagaltzis"
+   },
+   {
+      "attendees" : [
+         "Paul Evans",
          "Leon Timmermans"
       ],
       "blog" : "https://blogs.perl.org/users/psc/2025/09/this-week-in-psc-201-2025-09-25.html",
-      "blog_title" : "This week in PSC (201) | 2025-09-25",
+      "blog_title" : "This week in PSC (202) | 2025-09-25",
       "date_meet" : "2025-09-25",
       "date_pub" : "2025-09-25",
       "mail_msgid" : "20250925155650.05233553@vel.leo",
       "mail_subj" : "PSC #201 2025-09-25",
-      "num" : "201",
+      "num" : "202",
+      "remark" : "incorrect number",
       "scribe" : "Paul Evans"
    },
    {
@@ -2809,12 +2825,13 @@
          "Aristotle Pagaltzis"
       ],
       "blog" : "https://blogs.perl.org/users/psc/2025/09/this-week-in-psc-202-2025-09-29.html",
-      "blog_title" : "This week in PSC (202) | 2025-09-29",
+      "blog_title" : "This week in PSC (203) | 2025-09-29",
       "date_meet" : "2025-09-29",
       "date_pub" : "2025-09-29",
       "mail_msgid" : "aNrE07PyzZxODNwc@klangraum.plasmasturm.org",
       "mail_subj" : "PSC #202 2025-09-29",
-      "num" : "202",
+      "num" : "203",
+      "remark" : "incorrect number",
       "scribe" : "Aristotle Pagaltzis"
    }
 ]
