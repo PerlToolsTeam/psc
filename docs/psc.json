@@ -2833,5 +2833,20 @@
       "num" : "203",
       "remark" : "incorrect number",
       "scribe" : "Aristotle Pagaltzis"
+   },
+   {
+      "attendees" : [
+         "Paul Evans",
+         "Aristotle Pagaltzis",
+         "Leon Timmermans"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2025/10/this-week-in-psc-204-2025-10-13.html",
+      "blog_title" : "This week in PSC (204) | 2025-10-13",
+      "date_meet" : "2025-10-13",
+      "date_pub" : "2025-10-14",
+      "mail_msgid" : "aO2NcETpnaFvVSBN@klangraum.plasmasturm.org",
+      "mail_subj" : "PSC #204 2025-10-13",
+      "num" : "204",
+      "scribe" : "Aristotle Pagaltzis"
    }
 ]
