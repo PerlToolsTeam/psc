@@ -2890,5 +2890,20 @@
       "mail_subj" : "PSC #207 2025-11-17",
       "num" : "207",
       "scribe" : "Paul Evans"
+   },
+   {
+      "attendees" : [
+         "Aristotle Pagaltzis",
+         "Leon Timmermans",
+         "Paul Evans"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2025/11/this-week-in-psc-208-2025-11-25.html",
+      "blog_title" : "This week in PSC (208) | 2025-11-25",
+      "date_meet" : "2025-11-25",
+      "date_pub" : "2025-11-25",
+      "mail_msgid" : "20251125170101.5f0669be@vel.leo",
+      "mail_subj" : "PSC #208 2025-11-25",
+      "num" : "208",
+      "scribe" : "Paul Evans"
    }
 ]
