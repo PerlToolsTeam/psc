@@ -2935,5 +2935,19 @@
       "mail_subj" : "PSC #210 2026-01-05",
       "num" : "210",
       "scribe" : "Aristotle Pagaltzis"
+   },
+   {
+      "attendees" : [
+         "Paul Evans",
+         "Aristotle Pagaltzis"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2026/01/this-week-in-psc-211-2026-01-12.html",
+      "blog_title" : "This week in PSC (211) | 2026-01-12",
+      "date_meet" : "2026-01-12",
+      "date_pub" : "2026-01-15",
+      "mail_msgid" : "aWla_MAwb6mYIrBL@klangraum.plasmasturm.org",
+      "mail_subj" : "PSC #211 2026-01-12",
+      "num" : "211",
+      "scribe" : "Aristotle Pagaltzis"
    }
 ]
