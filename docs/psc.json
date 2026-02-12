@@ -2994,5 +2994,20 @@
       "num" : "214",
       "remark" : "incorrect number",
       "scribe" : "Aristotle Pagaltzis"
+   },
+   {
+      "attendees" : [
+         "Paul Evans",
+         "Leon Timmermans",
+         "Aristotle Pagaltzis"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2026/02/this-week-in-psc-215-2026-02-11.html",
+      "blog_title" : "This week in PSC (215) | 2026-02-11",
+      "date_meet" : "2026-02-11",
+      "date_pub" : "2026-02-12",
+      "mail_msgid" : "CAHhgV8ju2+7Q1qdsgaK41y_GCQSVfjohSUfQnAiLD_ujgOaYOQ@mail.gmail.com",
+      "mail_subj" : "PSC #215 2026-02-11",
+      "num" : "215",
+      "scribe" : "Leon Timmermans"
    }
 ]
