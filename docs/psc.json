@@ -3204,5 +3204,20 @@
       "mail_subj" : "PSC #228 2026-06-08",
       "num" : "228",
       "scribe" : "Aristotle Pagaltzis"
+   },
+   {
+      "attendees" : [
+         "Paul Evans",
+         "Aristotle Pagaltzis",
+         "Leon Timmermans"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2026/06/this-week-in-psc-229-2026-06-16.html",
+      "blog_title" : "This week in PSC (229) | 2026-06-16",
+      "date_meet" : "2026-06-16",
+      "date_pub" : "2026-06-16",
+      "mail_msgid" : "20260616163244.626c287e@vel.leo",
+      "mail_subj" : "PSC #229 2026-06-16",
+      "num" : "229",
+      "scribe" : "Paul Evans"
    }
 ]
