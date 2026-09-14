@@ -3294,5 +3294,20 @@
       "mail_subj" : "PSC #234 2026-07-20",
       "num" : "234",
       "scribe" : "Aristotle Pagaltzis"
+   },
+   {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Leon Timmermans"
+      ],
+      "blog" : "https://blogs.perl.org/users/psc/2026/09/this-week-in-psc-235-2026-09-14.html",
+      "blog_title" : "This week in PSC (235) | 2026-09-14",
+      "date_meet" : "2026-09-14",
+      "date_pub" : "2026-09-14",
+      "mail_msgid" : "20260914170339.59e29ec8@vel.leo",
+      "mail_subj" : "PSC #235 2026-09-14",
+      "num" : "235",
+      "scribe" : "Paul Evans"
    }
 ]
