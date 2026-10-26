@@ -3361,6 +3361,19 @@
          "Paul Evans",
          "Leon Timmermans"
       ],
+      "date_meet" : "2026-10-12",
+      "date_pub" : "2026-10-12",
+      "mail_msgid" : "CAHhgV8hCUrCzruA6kyA2QOY2VAEV7vWzpWHG+5ML1+647FMO8Q@mail.gmail.com",
+      "mail_subj" : "PSC #239 2026-10-12",
+      "num" : "239",
+      "scribe" : "Leon Timmermans"
+   },
+   {
+      "attendees" : [
+         "Graham Knop",
+         "Paul Evans",
+         "Leon Timmermans"
+      ],
       "blog" : "https://blogs.perl.org/users/psc/2026/10/this-week-in-psc-240-2026-10-26.html",
       "blog_title" : "This week in PSC (240) | 2026-10-26",
       "date_meet" : "2026-10-26",
